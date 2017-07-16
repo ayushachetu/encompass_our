@@ -1,0 +1,258 @@
+.report-link {
+	display: inline-block;
+	background: #5cb85c;
+	padding: 7px 21px;
+	margin: 10px 0;
+	margin-right: 20px;
+	font-size: 18px;
+}
+
+.report-link:last-child {
+	margin-right: 0;
+}
+
+.report-link,
+.report-link:hover,
+.report-link:focus {
+	color: #fff;
+}
+
+.facility-heading {
+	color: #07427e;
+	font-weight: bold;
+
+}
+
+.par-circle {
+	color: #fff;
+	font-size: 18px;
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: #999;
+	text-align: center;
+	line-height: 60px;
+	font-weight: bold;
+}
+
+.progress-wrap h5 {
+	margin-top: 20px;
+}
+
+.progress-wrap .progress {
+	margin-top: 20px;
+}
+
+.bg-red {
+	background-color: #ef5350;
+}
+
+.bg-orange {
+	background-color: #f7941d;
+}
+
+.bg-lime-green {
+	background-color: #4caf50;
+}
+
+.bg-yellow {
+	background-color: #ffc107;
+}
+
+.bg-dark-green {
+	background-color: #1b5e20;
+}
+
+.bg-facility {
+	background-color: #40c896;
+}
+
+.bg-quality {
+	background-color: #4091c9;
+}
+
+.bg-survey {
+	background-color: #f7a53f;
+}
+
+.bg-team {
+	background-color: #a795f9;
+}
+
+.bg-emp {
+	background-color: #c3c3c3;
+}
+
+.panel-black .panel-heading {
+	background-color: #555;
+	font-weight: bold;
+	position: relative;
+}
+
+.panel-black .panel-heading a {
+	color: #fff;
+	font-size: 20px;
+	display: block;
+}
+
+.panel-black .panel-heading a:hover,
+.panel-black .panel-heading a:focus {
+	text-decoration: none;
+}
+
+.panel-black .panel-heading .agre {
+	position: absolute;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-color: #29aae3;
+	color: #fff;
+	padding: 7px 15px;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+input[name="get-report"] {
+	width: 100%;
+	height: 40px;
+	font-size: 16px;
+}
+
+#report-range {
+	background: #fff;
+	cursor: pointer;
+	padding: 9px;
+	border: 1px solid #ccc;
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+#report-range b.caret {
+	float: right;
+	margin-top: 8px;
+}
+
+.facility-details {
+	font-size: 16px;
+	font-weight: 400;
+}
+.image-section{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.surveys-list table tr {
+	cursor: pointer;
+}
+
+.panel-body hr:last-child {
+	display: none;
+}
+
+#scheduler-filter-wrapper hr:last-child {
+	display: block;
+}
+
+.color-info {
+	margin: 0 10px;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+.color-info .par-circle {
+	width: 40px;
+	height: 40px;
+}
+
+/*-----------scheluar css-----------*/
+
+.scheduling-label {
+	float: right;
+	font-size: 16px;
+	margin: 7px auto;
+	font-weight: 400;
+}
+
+.is-recursive-container {
+	width: 30%;
+	display: inline-block;
+}
+
+.frequency-container {
+	width: 30%;
+	margin-left: 2%;
+	display: inline-block;
+}
+
+.send-on-container {
+	width: 35%;
+	margin-left: 2%;
+	display: inline-block;
+}
+
+select {
+	color: #aaa !important;
+}
+
+input[name="create-scheduler"] {
+	width: 100%;
+	padding: 7px;
+	font-size: 18px;
+}
+
+.bdr-red {
+	border-color: #f00 !important;
+}
+
+#scheduling-menu {
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	background-color: #2196f3;
+}
+
+.emp-count-details {
+	display: inline-block;
+	padding: 0 15px;
+	text-align: center;
+}
+
+.emp-count-details p {
+	margin-top: 10px;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.service-standarts-text {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: -5px;
+}
+
+/*-----overrides-----*/
+.select2-container {
+	margin-bottom: 5px;
+}
+
+.select2-container--default.select2-container--disabled .select2-selection--single {
+	cursor: not-allowed;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	font-weight: 400;
+}
+
+.select2-selection.select2-selection--multiple {
+	height: 40px !important;
+	padding: 4px 0 !important;
+}

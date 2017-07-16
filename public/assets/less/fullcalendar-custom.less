@@ -1,0 +1,101 @@
+@import 'variables.less';
+
+.calendar
+{
+	font-family: @main-font;
+}
+.event-color
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.external-event
+{
+	padding: 10px 12px;
+	color: #ffffff !important;
+	&:hover
+	{
+		opacity: 0.8;
+	}
+}
+.fc-toolbar
+{
+	.fc-state-default
+	{
+		display: inline-block;
+		font-size: 14px;
+		margin-right: 2px;
+		font-weight: normal;
+		line-height: 1.42857143;
+		text-align: center;
+		white-space: nowrap;
+		vertical-align: middle;
+		-ms-touch-action: manipulation;
+		touch-action: manipulation;
+		cursor: pointer;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		background-image: none;
+		border: 0px solid transparent;
+		border-radius: 0px;
+		background-color: @success;
+		height: 40px;
+		color: #ffffff;
+		outline: 0;
+	}
+	.fc-left
+	{
+		.fc-today-button
+		{
+			background-color: @primary;
+		}
+	}
+	.fc-state-active
+	{
+		opacity: 0.6;
+	}
+}
+.fc-view-container
+{
+	background-color: #ffffff;
+	.fc-day-grid-event
+	{
+		padding: 6px 8px;
+		background-color: @primary;
+		color: #ffffff;
+		border: 0px;
+		border-radius: 0px;
+	}
+	table
+	{
+		thead.fc-head
+		{
+			tr
+			{
+				td.fc-widget-header
+				{
+					table
+					{
+						thead
+						{
+							tr
+							{
+								th.fc-day-header
+								{
+									padding-top: 10px;
+									padding-bottom: 10px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}	
+	.fc-day
+	{
+		padding: 2px;
+	}
+}

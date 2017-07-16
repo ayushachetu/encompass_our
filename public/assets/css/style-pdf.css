@@ -1,0 +1,118 @@
+html, body{
+	margin:0;
+	padding:0;
+	font-family:  Helvetica;
+}
+
+.page-break {
+    page-break-after: always;
+}
+
+#header{
+	text-align: center;
+}
+
+#header img{
+	width: 250px;	
+}
+
+#wrapper-content{
+	width: 100%;
+	margin: 0 20px;
+}
+
+#quote-header h1{
+	background: #1A4479;
+	padding: 5px 10px;
+	font-size: 18px;
+	font-weight: 300;
+	margin-bottom: 0;
+	position: relative;
+	width: 100%;
+	color: #fff;
+}
+
+#quote-header span{
+	position:  absolute;
+	right: 10px;	
+	font-size: 14px;
+	display: block;
+}
+
+#quote-subject{
+	background: #fafafa;
+	padding: 10px 10px;
+	text-align: left;
+	font-size: 15px;
+	font-weight: 300;
+	margin-bottom: 20px;
+	
+}
+
+.table{
+	width: 100%;
+	font-size: 14px;
+}
+
+#user-info .info-col-1{
+	width: 20%;
+	text-align: right;
+}
+
+#user-info .info-col-2{
+	width: 60%;
+	border-bottom: 1px solid #d4d4d4;
+	padding-left: 5px; 
+}
+
+#user-info{
+	height: 160px;
+}
+
+.table-bordered td, .table-bordered th{
+	border: 1px solid #d4d4d4; 	
+}
+
+.table-bordered th{
+	text-align: left;
+	padding: 5px 5px;
+	background: #f4f4f4;
+}
+
+.table-bordered td{
+	padding: 10px 5px;
+}
+
+.table .text-right{
+	text-align: right !important;
+}
+
+.td-subject{
+	font-size: 12px;
+}
+
+h2{
+	font-size: 18px;
+	margin-top: 25px;
+	margin-bottom: 0;
+	color:  #1A4479;
+}
+
+.notes-box{
+	border: 1px solid #f4f4f4;
+	padding: 10px;
+	font-size: 14px;
+	height: 120px;
+}
+
+#footer{
+position: absolute;
+bottom: 0;
+font-size: 12px;
+background: #f4f4f4;
+padding: 10px 10px;
+}
+
+.main-content{
+	max-width: 1200px;
+}

@@ -1,0 +1,494 @@
+employeenumber,firstname,lastname,classificationid,typeid,supervisorid,primaryjob,emailaddress,locationid,status,managerid,areasupervisorid,jobsupervisorid
+186,MARIA DEL CARMEN,ALBA,1,1,15,1003,mariaalba621@yahoo.com,1,1,5,1,81
+357,MARIA ANTONIA,BERNAL,1,1,15,1003,MBERNAL830@GMAIL.COM,1,1,5,1,81
+379,HERIBERTO,MALDONADO,1,1,54,5000,hmaldonado1955@comcast.net,1,1,1,3,1000
+512,MARTA,MALDONADO,1,1,13,3018,marticaramos59@gmail.com,1,1,4,0,13
+607,EMILE,GEORGES,3,1,54,3016,mijuby@gmail.com,1,1,1,3,25
+610,ANTOINETTE,JOSEPH,1,1,54,3000,pedrotaxamerica@hotmail.com,1,1,1,3,18
+618,AURORA,CORTES,1,1,54,3000,AURORACURTES2103@GMAIL.COM,1,1,1,3,18
+643,CRISTINA,GUZMAN,1,1,54,3001,melissaguzman62@yahoo.com,1,1,1,3,35
+645,ORBELINA,VELASQUEZ,1,1,54,3001,,1,1,1,3,35
+653,JOSE,AYALA,1,1,54,3001,NA@NA.COM,1,1,1,3,35
+656,ALEXIS,RODRIGUEZ,6,1,54,3001,NA@NA.COM,1,1,1,3,35
+657,ROSA,DELEON,3,1,54,3000,,1,1,1,3,18
+676,BENICIA,BRICE,1,1,54,3000,brice201515@gmail.com,1,1,1,3,18
+682,SANTOSTEODORA,HERNANDEZ,1,1,54,3001,ALEXIS.RODRIGUEZ@DIRTPROS.COM,1,1,1,3,35
+738,CRISTINO,GUZMAN,1,1,54,3001,MILTON8941@GMAIL.COM,1,1,1,3,35
+745,DORA,YANEZFERMAN,1,1,54,3001,,1,1,1,3,35
+782,ELSI,PEREZ,1,1,54,3001,yolivera@farmworkercouncil.org,1,1,1,3,35
+801,BRAULIO,ECHEVARRIA,1,1,54,3000,braulioechavarria1965@gmail.com,1,1,1,3,18
+811,ROSARIO,BLOISE,3,1,19,1069,ROSARIOBLOISE@ME.COM,1,1,5,2,1001
+826,LUIS,CANDELARIA,1,1,54,3001,NA@NA.COM,1,1,1,3,35
+827,ROSA,WILLIAMS,1,1,13,3012,rwilliams5733@gmail.com,1,1,4,0,17
+830,LUCIA,AVELAR,1,1,54,3001,NA@NA.COM,1,1,1,3,35
+831,EULOGIO,CASTELLON,1,1,54,3003,NA@NA.COM,1,1,1,3,1000
+841,MARIA,RODRIGUEZ,3,1,13,3008,mariposa195726@yahoo.com.co,1,1,4,0,49
+851,LUNES,NELCY,1,1,54,3031,linedanelcy@yahoo.com,1,1,1,3,1000
+854,AMANDA,ACOSTA,1,1,13,3011,sonadora2509@hotmail.com,1,1,4,0,13
+877,MAYELIN,DALMAU,3,1,13,3012,mayeemil@live.com,1,1,4,0,17
+893,GLORIA,TILLAN,1,1,13,3011,Gtillan@yahoo.com,1,1,4,0,13
+907,LORENZO,ZAPATA,3,1,13,3008,lantonio23@live.com,1,1,4,0,49
+999,VICTORIA,MENDOZA,3,1,13,3012,victoriaa.mendozaa@hotmail.com,1,1,4,0,17
+1002,MARLEIDYS,PENDAS,1,1,15,3027,pendas1991@yahoo.es,1,1,91,1,63
+1012,SAMUEL,PENA RICARDO,1,1,54,3001,cosy7766@hotmail.com,1,1,1,3,35
+1020,JANETH,VILLACRES,1,1,19,1032,Locolucho69@hotmail.com,1,1,5,2,46
+1027,HERMELINDA,EUSEDA,3,1,54,3001,hermelindaeuseda@hotmail.com,1,1,1,3,35
+1029,JULIA,HERRERA,1,1,54,3001,NA@NA.COM,1,1,1,3,35
+1036,MARIO,GRANADOS,1,1,13,1012,MGRANADOS8112@GMAIL.COM,1,1,4,0,13
+1058,FRANTSI,FANFAN,1,1,54,3031,ffrantsi@yahoo.com,1,1,1,3,1000
+1065,LICELIA,LAMY,1,1,54,3000,blamy002@fiu.edu,1,1,1,3,18
+1067,MAGALY,JIMENEZ FERRAS,1,1,13,3012,maguyferraz@yahoo.com,1,1,4,0,17
+1092,LUCELLY,CARRAZANA,1,1,54,3000,Dangelogutierrez@ymail.com,1,1,1,3,18
+1099,SANTOS,REYES,1,1,54,3001,sofiareyes321@gmail.com,1,1,1,3,35
+1119,JEANROBERT,ERNIUS,1,1,54,3000,jeanroberternius@yahoo.com,1,1,1,3,18
+1168,DAVID,SMITH,3,2,43,3024,smith2081@bellsouth.net,1,1,3,0,43
+1169,BLANCA,ROCHA,3,1,41,3025,,1,1,10,0,47
+1170,ELSENE,SAGET,1,1,41,3025,elsenesaget@yahoo.com,1,1,10,0,47
+1185,MARIO,VELIZ ACEVEDO,1,1,15,3027,MARIOVELIZACEVEDO@GMAIL.COM,1,1,91,1,63
+1196,MARTINA,HERNANDEZ,1,1,54,3001,jackieperez265@gmail.com,1,1,1,3,35
+1209,MARIA,VILLATORO,1,1,54,3001,maria.villatoro1209@gmail.com,1,1,1,3,35
+1217,MELBA,URTECHO,1,1,15,3027,urtechomelba@yahoo.com,1,1,91,1,63
+1240,CARMEN,HERNANDEZ,1,1,13,3045,Carmen52062@gmail.com,1,1,4,0,66
+1252,MARIA,GARCIA,1,1,15,3027,,1,1,91,1,63
+1295,GUILLERMO,CASTRO,1,1,15,3027,guillermocastro1960@yahoo.com,1,1,91,1,63
+1357,FLERIDA,MELODEGUTIERREZ,1,1,19,1032,Fleridamelo@hotmail.com,1,1,5,2,46
+1362,HERME,GUTIERREZ,1,1,19,1025,,1,1,5,2,1000
+1365,JUANA,HERRERA DE AVILA,1,1,19,1035,zenina1113@hotmail.com,1,1,5,2,1001
+1366,EDUARDO,ALVAREZ,1,1,44,2002,isomar2009@gmail.com,1,1,90,0,15
+1371,HILDA,MARTINEZ,1,1,19,1027,MELVIN2270@YAHOO.COM,1,1,5,0,19
+1382,FANNY,RODRIGUEZ,1,1,13,3018,fannytadel@gmail.com,1,1,4,0,13
+1390,TERESA,OCHOA,1,1,19,1033,TERRYLAO1928@GMAIL.COM,1,1,5,2,46
+1425,PHIDIAS,SAINTJEAN,3,1,15,3033,bossjob234@gmail.com,1,1,8,0,1000
+1436,VIRGEN,ALONZODECARABALLO,1,1,13,3011,Virgen_0825@hotmail.com,1,1,4,0,13
+1449,ADNEL,CHERISMA,1,1,54,3000,ADNELCHERISMA@YAHOO.COM,1,1,1,3,18
+1462,MARIE,ESTIME,1,1,54,3000,yanickcasimir@yahoo.com,1,1,1,3,18
+1482,GLADYS,JEANBAPTISTE,1,1,54,3000,jbaptiste211@yahoo.com,1,1,1,3,18
+1496,ANTHONY,WILLIAMS,3,1,54,3004,mrbigant71@yahoo.com,1,1,1,3,1000
+1549,RAQUEL,BLUHM,1,1,19,1033,DBLUHMRA@HOTMAIL.COM,1,1,5,2,46
+1610,IMMACULA,CAMILUS STCLAIRE,1,1,41,3025,Immaculacamilus@gmail.com,1,1,10,0,47
+1667,JOSE,RODRIGUEZ,1,1,13,6008,teresarodriguez43@gmail.com,1,1,4,0,13
+1686,Deborah,Polcino,4,2,30,4500,debp323@yahoo.com,1,1,90,0,15
+1693,COLASI,BETANCOURT,1,1,13,3008,colasib@gmail.com,1,1,4,0,49
+1704,RIGOBERT,RENARD,1,1,54,1041,RENARD1992@YAHOO.COM,1,1,1,3,25
+1751,Marcell,Haywood,5,2,8,1000,haywoodm@encompassonsite.com,1,1,90,0,30
+1752,Sharlene,Boyd,7,2,30,1000,sunsupnews@yahoo.com,1,1,90,0,30
+1757,THOMAS,OWEN,11,2,15,3024,,1,1,3,0,43
+1758,Omar,Diaz,11,2,15,4500,omar.diaz26@gmail.com,1,1,90,0,15
+1759,Jorge,Castro,11,2,15,4500,kfjccastro@gmail.com,1,1,90,0,15
+1760,Ravindra,Singh,11,2,15,3000,jackmcss@netzero.net,1,1,1,3,18
+1761,Hugo,Finochio,4,2,56,4500,omar.finochio@encompassonsite.com,1,1,90,0,15
+1770,JULIO,MORALES,11,2,15,3025,JULIO.MORALES@DIRTPROS.COM,1,1,10,0,47
+1780,HUBERMAN,JOSEPH,3,1,54,3001,n/a,1,1,1,3,35
+1788,ERNESTO,FIGUEREDORUIZ,1,1,44,4040,ejfrmichele@yahoo.com,1,1,9,0,70
+1797,Mark,Yohannan,5,2,30,1000,mark.yohannan@encompassonsite.com,1,1,90,0,30
+1827,VIERGEMENE,CLERVEAUX,1,1,41,3025,viergemene@yahoo.com,1,1,10,0,47
+1838,ANGELA MONIQUE,JACKSON,1,1,1,7005,debra5884@yahoo.com,1,1,8,0,68
+1873,YUNIOR,EUCEDA,1,1,54,3001,eucedayunior@yahoo.com,1,1,1,3,35
+1884,RAFAEL ENRIQUE,GOMEZ ROBAINA,1,1,15,4037,rafgomrob@gmail.com,1,1,91,1,1007
+1905,SONIA,VILLARREAL,1,1,54,7001,reyes0881@gmail.com,1,1,1,3,18
+1918,ADRIAN,GAYLE,1,1,54,3001,ADRIANGAYLE23@YAHOO.COM,1,1,1,3,35
+1929,SUKHRANIE,KALIDASS,1,1,13,4039,DEVENDRAKALIDASS@GMAIL.COM,1,1,4,0,8
+1932,CONSTANCE,BLOODWORTH,1,1,19,1061,CONSTANCEVAN20@GMAIL.COM,1,1,5,2,80
+1957,JOSHUA,LAPOMAREDE,1,1,54,3001,teshapierre@gmail.com,1,1,1,3,35
+1961,JHONY,BOBO,1,1,54,3001,,1,1,1,3,35
+1969,HERLANDE,BERNARD,1,1,19,1066,herlande28@yahoo.com,1,1,5,2,74
+1978,MAURICE,BARNHILL,1,1,15,1003,MAURICEBARNHILL93@YAHOO.COM,1,1,5,1,81
+1980,MARIEMARTHE,JOSEPH,1,1,54,3001,power2327@gmail.com,1,1,1,3,35
+1981,ANASTASIA,MESA,1,1,1000,3001,amesa@citadel.edu,1,1,1,3,35
+1982,EUGENIE,ERNIUS,1,1,54,3029,SOPHIAERNIUS@YAHOO.COM,1,1,1,3,76
+1986,SHARON,GRAY,1,1,13,3012,sharongray767@yahoo.com,1,1,4,0,17
+1989,RITA,HURTADO,1,1,13,3015,RHURTADO52@YAHOO.ES,1,1,4,0,13
+1991,ANA,BERMEO,1,1,13,3018,analiliabermeo.54@gmail.com,1,1,4,0,13
+1997,MARIAHELENA,JARAMILLO,1,1,13,6008,malena.52@live.com,1,1,4,0,13
+2020,FONTANE,PLANCHER,3,1,44,4040,IVELENEPLANCHER@GMAIL.COM,1,1,9,0,70
+2051,YVELINE,JACQUES,1,1,54,3016,EVYPIERRE20@GMAIL.COM,1,1,1,3,25
+2052,ISNA,PIERRE,1,1,54,3001,georgiobraind@yahoo.com,1,1,1,3,35
+2066,ELUCIE,PETITFRERE,1,1,44,5011,ivelineplancher@gmail.com,1,1,9,0,37
+2089,ERLA,NICOLAS,1,1,54,3000,thamarosias@aol.com,1,1,1,3,18
+2093,JEAN,SEAC,1,1,54,3001,Nfranck99@gmail.com,1,1,1,3,35
+2097,Varouj,Aghyarian,11,2,15,4500,vaghyarian@gmail.com,1,1,90,0,15
+2099,REYNALD,BAZILE,1,1,54,3001,REYNALDBAZILE@YAHOO.COM,1,1,1,3,35
+2109,MITSHENDER,DUMILOR,1,1,54,3016,mitshender.doner33@Yahoo.com,1,1,1,3,25
+2110,JEAN,OLTIN,1,1,44,5011,OLTINOJ@YAHOO.COM,1,1,9,0,37
+2128,DAIMARA,CRESPO,1,1,13,3008,cdaimara171@gmail.com,1,1,4,0,49
+2131,OSCAR,LOPEZ,1,1,13,3012,OSCAROZZOLOPEZ@GMAIL.COM,1,1,4,0,17
+2133,Edgardo,Cozzi,7,2,30,1000,ejcozzi@yahoo.com,1,1,90,0,30
+2142,RAQUEL,LOPEZ PUPO,1,1,13,3012,raquellop2013@live.com,1,1,4,0,17
+2143,GUERLA,NOEL,1,1,13,3019,enoel2007@yahoo.com,1,1,4,0,13
+2144,MAUDE,ATISSE,1,1,44,5011,ATISSE1961@GMAIL.COM,1,1,9,0,37
+2170,VERNIDE,CLERVILUS,1,1,54,3001,ROBNIDEC@YAHOO.COM,1,1,1,3,35
+2172,ROSEDERE,FLORESTAL,1,1,54,3001,barn3tthot@hotmail.com,1,1,1,3,35
+2176,SANTIAGO,COLLANTE,1,1,13,3008,LA.DOMINICANA247@GMAIL.COM,1,1,4,0,49
+2191,DWAYNE,WALKER,1,1,54,3001,Walker.db90@gmail.com,1,1,1,3,35
+2200,LUZ,FLORENTINO GOMEZ,1,1,54,3000,NINAGOMEZ2012@HOTMAIL.COM,1,1,1,3,18
+2201,ESTER,AVILA,1,1,54,3001,ESTHER.TITA1781@HOTMAIL.COM,1,1,1,3,35
+2204,MESILIA,NORZIUS,1,1,54,3000,mesilia.norzius@yahoo.com,1,1,1,3,18
+2212,MICHAEL,CASTILLO,7,1,15,4500,mikito08@gmail.com,1,1,90,0,15
+2215,MARVELIS,BORGES TORTOLO,1,1,15,3037,MARVELIS2511@HOTAMAIL.COM,1,1,91,1,16
+2229,VIVIAN,Acevedo,1,1,44,4040,amiliagros1961@yahoo.com,1,1,9,0,70
+2245,MATINO,GUE,1,1,54,3000,guematino@gmail.com,1,1,1,3,18
+2249,Cesar,Pichardo,11,2,15,4500,cesarpichardo@hotmail.com,1,1,90,0,15
+2264,YANINA,DIAZ CORREA,1,1,15,3037,johalaura@yahoo.es,1,1,91,1,16
+2269,SANTOS,RODRIGUEZ,1,1,13,9001,ORFAJASMINE@AOL.COM,1,1,4,0,13
+2276,Betsy,Stranahan,6,1,30,4500,betsy.stranahan@encompassonsite.com,1,1,90,0,15
+2282,LINCOLN,DIVINE,1,1,54,3016,lincolndivine@yahoo.fr,1,1,1,3,25
+2284,Yuleysi,Antunez Pedroso,1,1,13,3008,Yulachula30@yahoo.es,1,1,4,0,49
+2286,LUNDA,NORZIUS,1,1,54,3000,norziuslunda@gmail.com,1,1,1,3,18
+2305,Elicine,Celestine,1,1,54,3001,DALINEERNIUS@YAHOO.COM,1,1,1,3,35
+2306,DAYSY,PENA,1,1,13,1053,DAYSYPENA1028@GMAIL.COM,1,1,4,0,64
+2307,PRISCILA,GARCIA INFANTE,1,1,13,6008,Priscilagarcia670@yahoo.com,1,1,4,0,13
+2333,JORGE,ESTRADA,3,1,15,3040,,1,1,91,1,20
+2338,JEAN,AUGUSYIN,1,1,54,3001,,1,1,1,3,35
+2341,PAUL,RENE,1,1,54,3001,MYRIAMM65@YAHOO.COM,1,1,1,3,35
+2344,MARIA,PINEIRO,1,1,19,4035,mariapineiro62@hotmail.com,1,1,5,2,1001
+2359,NISNE,SALAZAR,1,1,44,5011,avigalmichal@gmail.com,1,1,9,0,37
+2365,RODRIGUE,ELOISIER,3,1,44,5011,rodrigue.eloisier@gmail.com,1,1,9,0,37
+2367,STAPHANA,DUMILOR,1,1,54,3001,tateybug510@gmail.com,1,1,1,3,35
+2370,YASMINE,RAYMONVIL,1,1,44,5011,YRAYMONVIL@GMAIL.COM,1,1,9,0,37
+2374,SUZE,BLANC,1,1,54,3016,SUZEBLANC@YAHOO.COM,1,1,1,3,25
+2376,CARMELOT,DOUZE,1,1,54,3001,CARMELOTDOUZE@YAHOO.COM,1,1,1,3,35
+2379,CLARASUSANA,MEDINADEMUNOZ,1,1,13,3008,SUSANA.MED@HOTMAIL.COM,1,1,4,0,49
+2381,DILCIA,MERCADO,1,1,54,3001,DILCIA.MERCADO03@HOTMAIL.COM,1,1,1,3,35
+2388,EDELMA,CABRERA,6,1,15,3027,edelma86@gmail.com,1,1,91,1,63
+2391,ANA,PENA,1,1,15,3040,guaya_quilena@hotmail.com,1,1,91,1,20
+2395,MAEVY,NAPOLES,1,1,15,3038,maevynapoles@yahoo.com,1,1,5,2,79
+2400,IZABELLE,BARREAU,1,1,54,3001,JONESPIERRELOUIS@YAHOO.COM,1,1,1,3,35
+2401,JACQUELINE,BENOIT,1,1,54,3001,mariebenz2000@yahoo.com,1,1,1,3,35
+2402,JOCELAINE,VOLTAIRE,1,1,13,3030,TDESAINT84@GMAIL.COM,1,1,4,0,13
+2406,JEAN,JOSEPH,1,1,54,3016,josephjean61@yahoo.com,1,1,1,3,25
+2408,JAMES,DECIME,1,1,44,5011,jamesdecime89@yahoo.com,1,1,9,0,37
+2421,SMITH,PIERRE,1,1,54,3000,WILL.S.PIERRE@GMAIL.COM,1,1,1,3,18
+2426,MARISOL,Reimondo,3,1,19,1033,m_reimondo@hotmail.com,1,1,5,2,46
+2433,Francia,Guzman,1,1,1,7005,franciaguzman@mail.com,1,1,8,0,68
+2434,VICTORIA,ARCINIEGA GUZMAN,1,1,1,7005,VICKYRIVERA84@GMAIL.COM,1,1,8,0,68
+2440,MARIELA,COUSO,1,1,1,7005,MARYYERA2013@GMAIL.COM,1,1,8,0,68
+2444,Ernsy,Jean Charles,1,1,1,7005,ernsyjeancharles@gmail.com,1,1,8,0,68
+2458,CELANESE,MCNEAL,1,1,15,4044,MCCELANESE@GMAIL.COM,1,1,8,1,1
+2480,MARIA,CEPEDA,6,1,19,3038,mariacepeda721@gmail.com,1,1,5,2,79
+2482,LOUISA,PIERRE,1,1,54,3000,danyletage@yahoo.fr,1,1,1,3,18
+2483,GILBERT,PAUL,1,1,1,7007,GIWOPA@GMAIL.COM,1,1,8,0,68
+2487,ILEANA,AROCHA,1,1,13,3012,ileanaarocha@yahoo.com,1,1,4,0,17
+2491,WUENDY,DURAN,1,1,19,1061,,1,1,5,2,80
+2501,CEDERNIER,NORZIUS,1,1,54,3000,CEDERNIERNORZIUS@YAHOO.COM,1,1,1,3,18
+2505,DULCE,AGUILAR,1,1,15,3040,dulceaguilar2537@gmail.com,1,1,91,1,20
+2508,LAZARA,DIAZ,1,1,15,3027,,1,1,91,1,63
+2510,RENA,MCCOMB,3,1,44,1051,RENAMCCOMB@YAHOO.COM,1,1,9,0,75
+2528,ROBERTO,CASTILLO,1,1,15,1003,castillito2006@yahoo.com,1,1,5,1,81
+2537,HENRY,CUESTA,3,1,15,3037,henrycuesta10@yahoo.es,1,1,91,1,16
+2547,EDITH,BOUCICAUT,1,1,54,3000,EDITHBOUCICAUT@GMAIL.COM,1,1,1,3,18
+2556,RASHANTE,JORDAN,1,1,1,7005,,1,1,8,0,68
+2566,MAIRELYS,SUAREZ,1,1,13,3019,cubanitaloka2011@aol.com,1,1,4,0,13
+2570,MARIE,NATHA,1,1,54,3000,,1,1,1,3,18
+2571,LAURIE,DESHOMMES,1,1,54,3016,lauriedeshommes.ld23@gmail.com,1,1,1,3,25
+2573,NOEMI,SANCHEZ,1,1,13,2003,noemibruzon@gmail.com,1,1,90,0,15
+2576,BILAINE,LAPLANTE,1,1,54,3001,LAPLANTEBILAINE@YAHOO.COM,1,1,1,3,35
+2578,CELITA,DOUZE,1,1,54,3001,WWWW@YAYOO.COM,1,1,1,3,35
+2589,SERGIO,ESPINAL,1,1,54,3000,,1,1,1,3,18
+2595,RAQUEL,RESENDIZ,1,1,13,3045,r_chihm@hotmail.com,1,1,4,0,66
+2601,YOLETTE,ALCIME,1,1,44,4040,NA@NA.COM,1,1,9,0,70
+2609,MAILIE,BEAUVAIS,1,1,54,3000,MAILIEBEAUVAIS50@GMAIL.COM,1,1,1,3,18
+2612,CIVILA,SYLVESTRE,1,1,54,3001,NA@NA.COM,1,1,1,3,35
+2613,CERESTE,EXILUS,1,1,54,3000,ronidexilus@yahoo.com,1,1,1,3,18
+2614,JOSEFA,CARDOZO,1,1,15,3027,CATHY_CARDOZO@HOTMAIL.COM,1,1,91,1,63
+2620,JULIAN,TENORIO,1,1,54,3000,Juliantenorio8@gmail.com,1,1,1,3,18
+2623,CALYLE,MONCION,1,1,54,3001,WWWWW@YAHOO.COM,1,1,1,3,35
+2627,BETHSAIDA,MOISE,1,1,54,3000,dadamoise82@gmail.com,1,1,1,3,18
+2632,JANIE,BRANAS GONZALEZ,1,1,13,3011,Janiebranas@yahoo.com,1,1,4,0,13
+2634,CATHERINE,LAPOTERIE,1,1,41,3025,,1,1,10,0,47
+2636,SIMONE,PRICE,1,1,54,3000,SEXCBLACK7777@GMAIL.COM,1,1,1,3,18
+2639,KESHIA,TAYLOR,1,1,19,1066,Lovinglife2014.kt@gmail.com,1,1,5,2,74
+2641,MARIE,PIERRE,1,1,54,3001,MARIEMARTHE@GMAIL.COM,1,1,1,3,35
+2644,JOANNA,MOLINA,1,1,19,1058,,1,1,5,2,72
+2648,JEAN CLAUDE,MICHEL,1,1,13,1053,Jcmichel12@yahoo.com,1,1,4,0,64
+2651,Jesus,Peguero Contreras,1,1,19,1066,PEGUERO1982@HOTMAIL.COM,1,1,5,2,74
+2652,KEISI,SORIANO,1,1,19,1060,THEBIGMAMI2009@HOTMAIL.COM,1,1,5,2,80
+2654,ODALIS,MONZON,1,1,15,3040,,1,1,91,1,20
+2658,KRISTIAN,LASLEY,1,1,13,1053,Delysalasley@gmail.com,1,1,4,0,64
+2661,AUSTRALIA,GAUTREAUX,3,1,44,1057,lgautre@gmail.com,1,1,9,0,71
+2672,LATINA,BLOWE,1,1,13,1062,,1,1,4,0,64
+2682,KERNA,SIMON,1,1,54,3029,WWWWW@YAHOO.COM,1,1,1,3,76
+2684,NEGUERRE,EXINOR,1,1,54,3001,AAAAAA@YAHOO.COM,1,1,1,3,35
+2691,MARJORIE,HOCUTT,3,1,44,5010,,1,1,9,0,44
+2702,AIMES,CRUZ,1,1,15,9003,AIMESCRUZ21@GMAIL.COM,1,1,7,1,15
+2704,JOSE LUIS,FERNANDEZ,1,1,19,1033,COOPERATIVAJL2589@HOTMAIL.COM,1,1,5,2,46
+2712,MARIA,FERNANDEZ,1,1,15,3037,,1,1,91,1,16
+2719,KAITLYN,MARRERO,1,1,19,3038,kamarrero@mhs.net,1,1,5,2,79
+2720,ELISABET,SANMARTIN CARRILLO,1,1,15,3037,ELISABETCARRILLODELCRISTO@GMAIL.COM,1,1,91,1,16
+2724,GERALDA,ROMULUS,1,1,41,3025,NYDJYKARISSA26@YAHOO.FR,1,1,10,0,47
+2730,STANLEY,CARLSON,1,1,54,3001,STANCARLSON202@YAHOO.COM,1,1,1,3,35
+2731,TIMOTHY,BLACKMON,1,1,54,3000,,1,1,1,3,18
+2736,MARIE,LUCIEN,1,1,54,3001,MARIELUCIE1995@GMAIL.COM,1,1,1,3,35
+2738,NEURYS,RAMIREZ,1,1,54,3017,neurysramirez@hotmail.com,1,1,1,3,25
+2741,YOVANA,CHAVEZ,1,1,44,3042,yovana_ch74@hotmail.com,1,1,9,0,69
+2743,JAMILETH,MARTINEZ,3,1,44,5011,,1,1,9,0,37
+2752,DENIE,AVALOS,1,1,54,3000,DENIEFAVALOS@GMAIL.COM,1,1,1,3,18
+2764,MIRIAM,PERDOMO,1,1,15,3040,ROBERTO.PEREZ32@YAHOO.ES,1,1,91,1,20
+2767,JEAN,SIMON,1,1,44,5011,SIMONJ5635@GMAIL.COM,1,1,9,0,37
+2768,SHUBERT,CHARLES,1,1,54,3000,SHUBYCHARLES@YAHOO.COM,1,1,1,3,18
+2769,JUANA,LAUREANO-BAEZ,1,1,19,1060,JUANALAUREANO69@YAHOO.COM,1,1,5,2,80
+2770,DIANA,HERNANDEZ,3,1,44,3046,mari.orla23@gmail.com,1,1,9,0,73
+2772,LAMERCIE,LORMEJUSTE,1,1,54,3000,Lamercielormejuste35@gmail.com,1,1,1,3,18
+2774,LAURA,PERCINO,1,1,15,3027,LAREN.DANIEL@YAHOO.CIM,1,1,91,1,63
+2775,Niurka,Larzabal,1,1,15,3037,niurkacblanco@gmail.com,1,1,91,1,16
+2780,ACELIA,GARI,1,1,15,3040,ATANIELDIAZ@YAHOO.ES,1,1,91,1,20
+2781,EDNA,GOURDET,1,1,54,3001,GOURDETEDNA1989@YAHOO.COM,1,1,1,3,35
+2783,ROSE,JOHN,1,1,54,3001,testsinora@YAHOO.COM,1,1,1,3,35
+2784,LUIS,CONTRERAS,1,1,19,1032,LOCOLUCHO69@HOTMAIL.COM,1,1,5,2,46
+2789,LAZARO,PONS,1,1,19,3038,L.PONSGLP@GMAIL.COM,1,1,5,2,79
+2804,Maylin,Gonzalez,1,1,15,3027,maylingonzalez49@yahoo.com,1,1,91,1,63
+2806,Johnny,Romulus,1,1,41,3025,johnny.romulus1@gmail.com,1,1,10,0,47
+2820,Ruben Dairo,Acuna Alvarez,1,1,15,3033,rubendairo1972@hotmail.com,1,1,8,0,1000
+2830,Bernade,Anatasse,1,1,54,3001,ysenmela32@gmail.com,1,1,1,3,35
+2834,Sofia,Andre,1,1,54,3000,andreasofia308@gmail.com,1,1,1,3,18
+2844,Jose,Portillo,1,1,54,3001,sparksphs36@gmail.com,1,1,1,3,35
+2846,Dalia,Gonzalo,1,1,15,3037,daliahenry2015@gmail.com,1,1,91,1,16
+2848,Venande,Gervilus,1,1,44,5011,gperi001@fiu.edu,1,1,9,0,37
+2850,Miguel,Aviles,1,1,44,5011,maviles1031b@gmail.com,1,1,9,0,37
+2856,Berthude,Paul,1,1,44,5011,bettyfrancois74@gmail.com,1,1,9,0,37
+2857,Kerline,Nemours,1,1,44,5011,nemourskerline77@gmail.com,1,1,9,0,37
+2858,Crystal,Pinkney,1,1,44,1065,cpinkney71@gmail.com,1,1,9,0,1006
+2866,Liddcia,Stanislaus,1,1,19,1066,,1,1,5,2,74
+2869,Koi,Wilson,1,1,54,3000,wilsonkoi305@gmail.com,1,1,1,3,18
+2872,Tania,Robaina,1,1,15,3041,tatianata13@gmail.com,1,1,4,0,13
+2878,Jamyra,Givens,1,1,1,7005,Ms.graham9years@yahoo.com,1,1,8,0,68
+2879,Leslie,Hayward,1,1,1,7005,mrs.hayward45@gmail.com,1,1,8,0,68
+2887,Yuslaidis,Garcia,1,1,15,3027,yulygarcia0215@gmail.com,1,1,91,1,63
+2888,Marisol,Alfonso Cordero,1,1,41,3025,yarilyn25@hotmail.com,1,1,10,0,47
+2890,Chrisla,Fenelus,1,1,44,1070,feneluschrisla74@gmail.com,1,1,9,0,1006
+2902,Edward,Durden,1,1,1,7005,edwarddurden305@gmail.com,1,1,8,0,68
+2906,Akeem,Moore,1,1,1,7005,,1,1,8,0,68
+2918,VANESSA,TAFFUR,1,1,1,7005,VANESSATAFFUR@HOTMAIL.COM,1,1,8,0,68
+2924,Latangee,DIXON,1,1,15,1003,LATANGEE.GAMBLE@GMAIL.COM,1,1,5,1,81
+2931,JAIME,CUEVAS RAMIRES,1,1,15,1003,JAIMECUEVAS@MAIL.COM,1,1,5,1,81
+2940,Haydee,Dominguez,3,1,19,1058,haydeep1877@gmail.com,1,1,5,2,72
+2944,Daymi,De Castro Valle,1,1,19,5012,daymidecastro@gmail.com,1,1,5,0,19
+2945,Arazay,Castellano,1,1,15,3027,adiblan18@gmail.com,1,1,91,1,63
+2946,Nanci,Robalino,1,1,15,3027,najan05@hotmail.com,1,1,91,1,63
+2948,Bernex,Evariste,1,1,44,5011,bernexevariste@yahoo.com,1,1,9,0,37
+2949,Mamose,Brenevil,1,1,54,3000,mamosemark@yahoo.com,1,1,1,3,18
+2950,Margarita,Heine,1,1,44,3043,margarita0805.mh@gmail.com,1,1,9,0,69
+2951,Yoandra,Perez Luis,1,1,13,3012,normaalbertolina@gmail.com,1,1,4,0,17
+2957,Mercedes,Cruz Guerra,1,1,15,3040,aimescruz21@gmail.com,1,1,91,1,20
+2959,Dady,Philibert,1,1,54,3000,dadyphilibert33@yahoo.com,1,1,1,3,18
+2960,Rosemene,Simeon Vincent,1,1,54,3001,simeonsteeve20@gmail.com,1,1,1,3,35
+2962,Francisco,Duran-Jimenez,1,1,19,1066,Franciscoduran1971@gmail.com,1,1,5,2,74
+2963,Gloria A,De Santos,1,1,54,3001,gloriaargentinadesantos@gmail.com,1,1,1,3,35
+2964,Judith,Duanca,1,1,19,1033,judithduanca1960@yahoo.com,1,1,5,2,46
+2968,Marie,Laferriere,1,1,44,3046,MSMARIE1984@YAHOO.COM,1,1,9,0,73
+2976,Maria,Hernandez,1,1,54,3000,mhernandezelsalvador77@gmail.com,1,1,1,3,18
+2981,Claudy,Romulus,1,1,41,3025,claudyromulus@yahoo.com,1,1,10,0,47
+2982,Yaima,Cruz,1,1,19,1066,Yaimacruz1368@gmail.com,1,1,5,2,74
+2989,Macline,Corvil Jean Pierre,1,1,44,1051,maclinecorvil@yahoo.com,1,1,9,0,75
+2990,Wilfredo,Beltre,1,1,44,1051,DIRTPROSBELTRE@gmail.com,1,1,9,0,75
+2991,Annela,Jean-Louis,1,1,44,3046,annelavjeanlouis@gmail.com,1,1,9,0,73
+2999,ELISENA ,DORCEAN,1,1,13,3045,DIRTPROSDORCEAU@MAILINATOR.COM,1,1,4,0,66
+3001,PAULA,GIL,1,1,13,3045,DIRTPROSGIL@MAIL.COM,1,1,4,0,66
+3005,MAURICE,JOACHIM,1,1,13,3045,jlocker147@gmail.com,1,1,4,0,66
+3006,JULISHA,LANDEFORT,1,1,13,3045,Landerfort0604@gmail.com,1,1,4,0,66
+3008,MARC,METELLUS,1,1,13,3045,dirtprosmetellus@mailinator.com,1,1,4,0,66
+3009,ROSETTE,PREVILON MICHEL,1,1,13,3045,dirtprosprevilon1@mailinator.com,1,1,4,0,66
+3010,MAGUY,MONESTIME,1,1,13,3045,dirtprosmonestime@mailinator.com,1,1,4,0,66
+3013,MARIE,PIERRE,1,1,13,3045,dirtprospierre@gmail.com,1,1,4,0,66
+3014,JULIETTA,PREVILON,1,1,13,3045,DIRTPROSPREVILON@MAILINATOR.COM,1,1,4,0,66
+3015,JONATHAN,SQUIRE,1,1,13,3045,squire_jonathan27@yahoo.com,1,1,4,0,66
+3016,Maria,De La Cruz Valdera,1,1,13,3045,,1,1,4,0,66
+3021,Mayra,Barberan,1,1,13,3045,framayce67@gmail.com,1,1,4,0,66
+3022,Blanca,Canales,1,1,13,3045,blancacanales1955@gmail.com,1,1,4,0,66
+3023,Maria,Dely,1,1,13,3045,mariadely8159@gmail.com,1,1,4,0,66
+3025,Wanda,Levine,1,1,13,3045,levinewanda617@gmail.com,1,1,4,0,66
+3026,Digna,Martinez,3,1,13,3045,dignamartinez60@gmail.com,1,1,4,0,66
+3028,Leticia,Duarte Perez,1,1,15,3037,dr.cebriansocarras@gmail.com,1,1,91,1,16
+3033,Yader,Saravia,1,1,13,3045,yjsaravia2010@gmail.com,1,1,4,0,66
+3039,Rolando,Vasallo,1,1,19,1033,omar.diaz@encompassonsite.com,1,1,5,2,46
+3040,Liza,Rosalez,3,1,15,3027,lizaro1979@yahoo.com,1,1,91,1,63
+3043,Cesar,Bracamonte,1,1,13,3045,elsaandcesar@hotmail.com,1,1,4,0,66
+3044,Teresa,Bassi,1,1,19,1034,luispiatta@yahoo.com,1,1,5,2,46
+3047,Ayler,Garcia,1,1,44,2003,aylerg28@hotmail.com,1,1,90,0,15
+3048,Yolette,Auguste,1,1,54,3000,brotherveres@yahoo.com,1,1,1,3,18
+3049,Wadson,Bernadin,1,1,13,3045,DIRTPROSBERNADIN@MAILINATOR.COM,1,1,4,0,66
+3051,Yaroslay,Aguiar,1,1,15,3027,yaro1081@gmail.com,1,1,91,1,63
+3052,Marie,Lafortune Eustalien,1,1,54,3000,yesmarie878@gmail.com,1,1,1,3,18
+3055,Maria,GARCIA,1,1,15,3040,braddock0123@aim.com,1,1,91,1,20
+3060,Allyhood,Jean,1,1,54,3001,allyhoodjean1988@gmail.com,1,1,1,3,35
+3062,Flor,Mogollon,1,1,13,3034,flormogollon1@gmail.com,1,1,4,0,13
+3070,Melisa,Robledo,1,1,13,3045,Melisarobledo64@gmail.com,1,1,4,0,66
+3071,Yolene,Forgue,1,1,13,3045,louissaintstanley20@yahoo.com,1,1,4,0,66
+3074,Jean,Anatasse,1,1,54,3001,lorminy50@gmail.com,1,1,1,3,35
+3078,Junette,Martin Jean,1,1,54,3001,kj.0308.jj@gmail.com,1,1,1,3,35
+3079,Dean,Parsons,1,1,54,3000,parsonsfree@yahoo.com,1,1,1,3,18
+3080,Christine,Jean Pierre,1,1,54,3001,allyhoodjean1988@gmail.com,1,1,1,3,35
+3082,Sainphilienne,Francois,1,1,54,3036,philienne@mailinator.com,1,1,1,3,77
+3087,Ramon,Saunders,1,1,13,3045,ramon.saunders1988@gmail.com,1,1,4,0,66
+3088,David,Hopfgarten,1,1,44,4040,davidhoff18@yahoo.com,1,1,9,0,70
+3092,Adriana,Vargas,4,2,62,4500,muva_adriana@yahoo.com,1,1,90,0,15
+3095,Jocelyn,Chimal,3,1,13,1053,jocelynchimal8@gmail.com,1,1,4,0,64
+3098,Mona,Victor,1,1,44,3042,evenson.laferriere@yahoo.com,1,1,9,0,69
+3099,Marie Dieula,Gourdet Faustin,1,1,54,3001,g.eudshaly34@yahoo.com,1,1,1,3,35
+3101,SAINSUFAIT,DILEJUSTE,1,1,54,3016,dilejuste@mailinator.com,1,1,1,3,25
+3104,Yoandris,Lopez,1,1,19,1066,yoandris29yl@gmail.com,1,1,5,2,74
+3105,Maritza,Doval,1,1,15,3037,mariampedroso@yahoo.com,1,1,91,1,16
+3107,Ana,Almanzar,1,1,19,3038,reiko06@live.com,1,1,5,2,79
+3110,Violeta,Williams,1,1,13,3045,violetajlopez@gmail.com,1,1,4,0,66
+3117,Eglly,Allende,1,1,19,1035,omar.diaz@encompassonsite.com,1,1,5,2,1001
+3118,Aymara,Novoa,1,1,15,3037,aymaranovoa@gmail.com,1,1,91,1,16
+3119,Averne,Cherelus,1,1,44,5011,avernecherelus@gmail.com,1,1,9,0,37
+3120,Catarina,Pascual,1,1,13,3045,Catapascual2014@gmail.com,1,1,4,0,66
+3122,Piedad,Castano Henao,1,1,13,3045,luis15877845@gmail.com,1,1,4,0,66
+3126,Karla,Marquez,1,1,19,1066,omar.diaz@encompassonsite.com,1,1,5,2,74
+3133,Brandon,Brown,3,1,44,3042,Brandonbrown166@yahoo.com,1,1,9,0,69
+3137,Maxcius,Bazile,1,1,41,3025,Duversoner@yahoo.com,1,1,10,0,47
+3138,Sarafina,Merisma,1,1,54,3001,frantzsonbarthelmy@yahoo.com,1,1,1,3,35
+3139,Luis,Cuellar,1,1,54,3001,luis_cuellar23@outlook.com,1,1,1,3,35
+3141,Christopher,Cooper,1,1,15,1003,chriscooper1010@gmail.com,1,1,5,1,81
+3143,Cesar,Carnero,1,1,54,3016,cesar.adrian472@gmail.com,1,1,1,3,25
+3145,Damian,Suarez,1,1,19,1066,Damian0223@yahoo.com,1,1,5,2,74
+3148,Juan,Nunez,1,1,44,1057,ferdinannu@hotmail.com,1,1,9,0,71
+3152,Luis,Campos Rodriguez,1,1,54,3001,esther.tita1781@hotmail.com,1,1,1,3,35
+3153,Maria juana,Amaya salvador,1,1,54,3001,odilverbenitez@yahoo.com,1,1,1,3,35
+3155,Hidelsy,Sosa,6,1,19,1060,hidelsys@gmail.com,1,1,5,2,80
+3156,Cindy,Wright,1,1,19,1058,cindywright29@yahoo.com,1,1,5,2,72
+3159,Jorge,Pena,1,1,19,1066,Jorge32396@yahoo.com,1,1,5,2,74
+3160,Sixto,Ulabarro,1,1,13,3012,aventurero01@yahoo.com,1,1,4,0,17
+3161,Alejandro,Yepez,6,1,1,4500,ayepez34@gmail.com,1,1,90,0,15
+3162,Gioconda Isabel,Montoya,1,1,19,3000,sagradafamilia22013@hotmail.com,1,1,1,3,18
+3165,Shena,Cherisma,1,1,48,3001,shenacherisma08@yahoo.com,1,1,1,3,35
+3168,Waldine,Etienne,1,1,48,3001,etiennerickylove@gmail.com,1,1,1,3,35
+3169,Marie,Dieujuste,1,1,48,3001,marthedieujuste@gmail.com,1,1,1,3,35
+3170,Djenane,Blaise,1,1,54,3000,blaise911@hotmail.com,1,1,1,3,18
+3173,Margaret,Lopez,1,1,15,4500,mlopez0518@gmail.com,1,1,90,0,15
+3174,Francisco,Olivar Rodriguez,12,1,8,4500,franciscoj.olivar@gmail.com,1,1,90,0,15
+3175,Adolfo,Fuentes Pacheco,6,1,15,1003,eduardopacheco_17@yahoo.com,1,1,5,1,81
+3176,Maria,Avila Zamora,1,1,54,3001,mariajose1098@icloud.com,1,1,1,3,35
+3177,John,Cuevas,1,1,13,3045,jhon_cuevas_k7@hotmail.com,1,1,4,0,66
+3179,Eudelky,Portales,1,1,19,3038,mari5m@yahoo.com,1,1,5,2,79
+3180,Ian,Lago,1,1,13,7009,iankeeysfl@gmail.com,1,1,4,0,13
+3183,Yoleisy,Marrero Diaz,1,1,19,3038,yoleisim@yahoo.com,1,1,5,2,79
+3184,Arley,Rivera,1,1,19,3039,arleypilot@yahoo.com,1,1,5,2,79
+3186,Yuniet,Puente,1,1,19,3038,Yuniet72@yahoo.com,1,1,5,2,79
+3187,Rick,Samper,1,1,15,1003,samperrick@yahoo.com,1,1,5,1,81
+3188,Mavawgely,Feliciano,1,1,19,1066,mavawgelyfeliciano@yahoo.com,1,1,5,2,74
+3189,Maria,Lugo,1,1,19,1066,marialugo615@gmail.com,1,1,5,2,74
+3190,Fanny,Gomez Nunez,1,1,19,3038,fannyg2110@hotmail.com,1,1,5,2,79
+3191,Cedy,Cadet,1,1,13,3045,madampetion@gmail.com,1,1,4,0,66
+3193,Yudith,Tosco,1,1,19,3038,yurajimmy@hotmail.com,1,1,5,2,79
+3197,Septilien,Saint Surin,1,1,54,7001,septiliens@gmail.com,1,1,1,3,18
+3198,Magaly,Villar Rodriguez,1,1,15,1003,magalivr@yahoo.com,1,1,5,1,81
+3199,Magaly,Perez,1,1,19,3038,purplepea666@gmail.com,1,1,5,2,79
+3200,Mariela,Cordero Alarcon,1,1,15,3040,marielacordero1969@yahoo.com,1,1,91,1,20
+3201,Odeys,Gomez Martinez,1,1,15,3040,victoriagomezmart62@gmail.com,1,1,91,1,20
+3202,Amouse,Casseus Destinvil,1,1,54,3000,amousedestinvil9@gmail.com,1,1,1,3,18
+3204,Giovanni,Valdez Aquino,6,1,19,3038,euclides.valdez@yahoo.com,1,1,5,2,79
+3206,America,Borroto Gonzalez,1,1,41,3022,americaborroto7503@gmail.com,1,1,10,0,41
+3207,Yanira,Nunez Maldonado,1,1,13,3045,yanira.nunez@yahoo.com,1,1,4,0,66
+3208,Jasiel,Cruz,1,1,44,1057,dbz.cruz@gmail.com,1,1,9,0,71
+3209,Daily,Cuellar Martin,1,1,44,5011,dailycuellar3103@gmail.com,1,1,9,0,37
+3210,Maria,Ramos Camero,1,1,15,1003,mariaconcha14@yahoo.com,1,1,5,1,81
+3212,Yecenia,Vejarano,1,1,19,1033,yeceniaveja@gmail.com,1,1,5,2,46
+3213,Jose,Romero Quintero,1,1,15,1003,rrjose89@gmail.com,1,1,5,1,81
+3214,Fabien,Martin Turrent,1,1,44,1051,turrent.m.t@gmail.com,1,1,9,0,75
+3218,Yania,Tumbarel Davis,1,1,13,3034,Yaniatumbarel1@yahoo.it,1,1,4,0,13
+3220,Luz,Sanchez Alvarez,6,1,48,3001,lucy_criss@hotmail.com,1,1,1,3,35
+3222,Rafael,Martinez,1,1,13,3045,RAFAELMARTINEZ1422@GMAIL.COM,1,1,4,0,66
+3223,Gwendolyn,Ware,6,1,19,1066,Msgware0058@gmail.com,1,1,5,2,74
+3224,Manuel,Contreras,1,1,19,1066,contrerasmargaret@gmail.com,1,1,5,2,74
+3225,Sauveur,Jean,1,1,54,3000,sauveurjean21@gmail.com,1,1,1,3,18
+3226,Eric,Dingle,1,1,13,3045,edingle3210@gmail.com,1,1,4,0,66
+3228,Damian,Brown,1,1,9,3034,216bobrown@gmail.com,1,1,4,0,13
+3229,Tyrell,Williams,1,1,41,3025,4018588pr@gmail.com,1,1,10,0,47
+3230,Bobby,Martinez,12,1,8,4500,zapata3242@yahoo.com,1,1,90,0,15
+3231,Enrique,Rodriguez,1,1,19,1033,rodriguezimpresos@hotmail.com,1,1,5,2,46
+3232,Enrique,Abreu,1,1,19,3039,ejabreu@gmail.com,1,1,5,2,79
+3233,Raul,Castillo,1,1,44,5011,rcastillo@gmail.com,1,1,9,0,37
+3234,Yamila,Vilallonga Pacheco,1,1,9,1003,yamipachecheco2002@gmail.com,1,1,5,1,81
+3235,Mayrelys,Rojas Diaz,1,1,9,3027,loscosis0611@gmail.com,1,1,91,1,63
+3237,Ramon,Rodriguez,1,1,13,1053,,1,1,4,0,64
+3238,Roberto,Simon Soler,1,1,81,1003,roberto_simon@msn.com,1,1,5,1,81
+3239,Brandon,Brown,1,1,44,5011,branbraniah@gmail.com,1,1,9,0,37
+3240,Danielle,Espaillat,1,1,13,3045,,1,1,4,0,66
+3241,Claudia,Tosco Ramirez,1,1,19,3038,claudiatosco05@gmail.com,1,1,5,2,79
+3242,Belkis,Moreno Hernandez,1,1,13,6008,jarh_17@hotmail.com,1,1,4,0,13
+3243,Ileana,Santos Perez,1,1,13,3012,ileanasantos9723@yahoo.com,1,1,4,0,17
+3244,Damaris,Martinez,1,1,41,3025,dmartinez5336@gmail.com,1,1,10,0,47
+3245,Gustavo,Leon Diaz,1,1,19,1033,galdiaz99@hotmail.com,1,1,5,2,46
+3246,Aurora,Olazabal,1,1,19,1071,fatiaurora@hotmail.com,1,1,5,2,1001
+3247,Alexander,Rivera Hernandez,1,1,19,1066,alexgym85@yahoo.com,1,1,5,2,74
+3248,Eddy,Carroz,1,1,44,1057,eddycarroz@hotmail.com,1,1,9,0,71
+3249,Tawana,Hawkins,1,1,13,3007,hawktee40@gmail.com,1,1,4,0,13
+3250,Yannely,Amarante Rodriguez,1,1,13,3045,yannelyam79@hotmail.com,1,1,4,0,66
+3252,Yvette,Rivas-Blanco,1,1,19,1072,yrivas3825@gmail.com,1,1,5,2,1001
+3253,Yiriel,Ramos Ramos,1,1,9,1003,yirielramos25@gmail.com,1,1,5,1,81
+3254,Maritza,Torres De Moya,1,1,48,3000,miapielcanela@hotmail.com,1,1,1,3,18
+3255,Belkis,Martinez Fajin,1,1,9,3037,belkiscuba88@yahoo.com,1,1,91,1,16
+3256,Mariela,Valdes Lopez,1,1,19,1078,mariolav24@yahoo.com,1,1,5,0,1001
+3257,Limercy,Valbuena,1,1,44,3042,limercyvalbuena@gmail.com,1,1,9,0,69
+3258,Willem,Joseph,1,1,19,3038,willemjoseph208@gmail.com,1,1,5,2,79
+3259,David,Munoz,2,1,19,1066,davmun18@gmail.com,1,1,5,2,74
+3260,Maria,Rivera Espinoza,11,1,9,3027,isabelfuentes_31@yahoo.com,1,1,91,1,63
+3261,Mercedes,Bello Arias,1,1,19,3038,,1,1,5,2,79
+3262,Mario,Gonzalez Zambrano,1,1,44,1051,mariogonzalez061949@gmail.com,1,1,9,0,75
+3263,Zoraida,Guzman,1,1,13,3045,zoraidaguzman1@yahoo.com,1,1,4,0,66
+3264,Myrna,Montenegro,1,1,1,7005,mmontenegro1962@gmail.com,1,1,8,0,68
+3265,Tonisha,Farquharson,1,1,1,7005,tonishafarquharson@rocketmail.com,1,1,8,0,68
+3266,Tynitra,Johnson,1,1,1,7005,johnsontynitra@yahoo.com,1,1,8,0,68
+3267,Josefa,Rizo,1,1,1,7005,iraidarito@yahoo.com,1,1,8,0,68
+3268,Elizabeth,Charles,1,1,1,7005,ec8245@gmail.com,1,1,8,0,68
+3269,Barbara,Rene,1,1,1,7005,barbararene15@yahoo.com,1,1,8,0,68
+3270,Shantavous,Wilcher,1,1,1,7005,shantavouswilcher@gmail.com,1,1,8,0,68
+3271,Monica,Gibson,1,1,1,7005,gibsonmonica653@gmail.com,1,1,8,0,68
+3272,Maria,Ortega,1,1,1,7005,mariaortega1955@hotmail.com,1,1,8,0,68
+3273,Milena,Camacho,1,1,1,7005,sandracamacho8@hotmail.com,1,1,8,0,68
+3274,Tomasa,Manon Valera,1,1,1,7005,betaniamanon@yahoo.com,1,1,8,0,68
+3275,Delmi,Cotto,1,1,1,7005,bautistadelmi@yahoo.com,1,1,8,0,68
+3276,Shatara,Hanks,1,1,1,7005,shatarahanks@gmail.com,1,1,8,0,68
+3277,Reba,Givens,1,1,1,7005,given.reba@yahoo.com,1,1,8,0,68
+3278,Latoya,Jones,1,1,1,7005,tslaniaj772@gmail.com,1,1,8,0,68
+3279,Manuel,Valdes Collazo,1,1,1,7005,manyvlds@yahoo.com,1,1,8,0,68
+9000,LUCAS,ALMANZAR,9,1,60,5014,LUCAS17ALMANZAR@GMAIL.COM,1,1,90,0,60
+9003,KATHRYN,BRETHAUER,9,1,60,5014,KATIEBLOSS@GMAIL.COM,1,1,90,0,60
+9006,ERIC,EMMERLING,9,1,60,5014,Eemmerling@hotmail.com,1,1,90,0,60
+9007,MARCOS,ESTRADA,9,1,60,5014,GABRIELLA82000@YAHOO.COM,1,1,90,0,60
+9009,PIERRE,FILTIDOR,10,1,60,5013,PIERREFILTIDOR@GMAIL.COM,1,1,90,0,60
+9013,FILIUS,JEAN,9,1,60,5014,JEANFILIUS@GMAIL.COM,1,1,90,0,60
+9016,SOAD,LOPEZ,9,1,60,5014,soad.lopez@mdc.edu,1,1,90,0,60
+9017,FANFAN,NOEL,9,1,60,5014,FANFAN.W.NOEL@GMAIL.COM,1,1,90,0,60
+9018,JOSELYN,PINEDA,9,1,60,5014,Joypineda327@yahoo.com,1,1,90,0,60
+9021,VICTOR,SANTOS,9,2,60,5014,VSANTOS@MDC.EDU,1,1,90,0,60
+9025,TANYA,THOMPSON,10,1,60,5013,thompsont2009@hotmail.com,1,1,90,0,60
+9026,CARLOS,UNZUETA,9,1,60,5014,SULULU14@MSN.COM,1,1,90,0,60
+9027,MAX,VALDEZ,9,1,60,5014,Max.valdez001@mymdc.net,1,1,90,0,60
+9030,JAMES,CARROLL,7,2,15,5014,JIMNAPAE@BIGPLANET.COM,1,1,90,0,60
+9034,CRISTINA,CARILLO,10,1,60,5013,CCARRILLO322@YAHOO.COM,1,1,90,0,60
+9039,VIECKSA,SOCA,10,1,60,5013,VSOCA1077@GMAIL.COM,1,1,90,0,60
+9041,PATRICK,MCCURRY,9,1,60,5014,PMCURRY@MDC.EDU,1,1,90,0,60
+9042,MICHAEL,MOORE,9,1,60,5014,MICHAEL.MOORE11@MYMDC.NET,1,1,90,0,60
+9049,Mary,Arellano,7,1,10,5013,,2,1,90,0,60
+9052,ANA,PLANA,1,1,60,5014,CHEFPLANA@GMAIL.COM,1,1,90,0,60
+9056,PELTAN,HUMES,9,1,60,5014,email@peltan.com,1,1,90,0,60
+9058,BEATRIZ,GARCIA,10,1,60,5013,BGARCIA1210@HOTMAIL.COM,1,1,90,0,60
+9060,CRISTOFERLENIN,VELEZ,9,1,60,5014,VCRISTOFERLENIN@GMAIL.COM,1,1,90,0,60
+9061,JARED,BALLADAREZ,10,1,60,5013,Jballada95@gmail.com,1,1,90,0,60
+9062,ABNER,MARCELLIN,9,1,60,5014,,1,1,90,0,60
+9063,ALEJANDRA,DIAZ,10,1,60,5013,Ale.Diaz316@yahoo.com,1,1,90,0,60
+9064,ALBERTHO,APPOLON,10,1,60,5013,APPOLONALBERTHO@YAHOO.COM,1,1,90,0,60
+9068,GLORIA,CASTANEDA-MOLINA,9,1,60,5014,gloria.castaneda002@mymdc.net,1,1,90,0,60
+9069,July,Salazar,9,1,60,5014,july.salazar001@mymdc.net,1,1,90,0,60
+9070,David,Small,10,1,60,5013,drskeem_2000@yahoo.com,1,1,90,0,60
+9071,Andre,Martinez,9,1,60,5014,martinezandre7@gmail.com,1,1,90,0,60
+9072,Jaime,Pino,9,1,60,5014,jimmypino123@gmail.com,1,1,90,0,60
+9075,Warren,Rhoden,9,1,60,5014,chefwarrenrhoden@gmail.com,1,1,90,0,60
+9079,Yenifer,Suarez,9,1,60,5014,yenisua3@gmail.com,2,1,90,0,60
+9080,Sara,Howard,11,1,60,5014,sara.ashlee.howard@gmail.com,2,1,90,0,60
+9081,Mariluz,Ccasa Carbajal,9,1,60,5014,mariluzccasa@hotmail.com,2,1,90,0,60
+9082,Miguel,FIGUEROA,9,1,60,5014,miguelfigueroa95@hotmail.com,2,1,90,0,60
+9083,Fabienne,Pierre Francois,9,1,60,5014,fabienne.pierre002@mymdc.net,2,1,90,0,60
+9084,Franklin,Fleuridor,9,1,60,5014,,2,1,90,0,60
+9085,Moises,Balladares,10,1,60,5013,,2,1,90,0,60
+9086,Stephanie,Gonzalez,10,1,60,5013,StephanieG924@hotmail.com,2,1,90,0,60
+9087,Katina,Leger,10,1,60,5013,katinaleger@gmail.com,2,1,90,0,60
+9088,Olisha,Sealy,9,1,60,5014,ossealy@gmail.com,2,1,90,0,60
+9089,Brittaney,Dowd,9,1,60,5014,nuninxd@gmail.com,2,1,90,0,60
+9090,Pedro,Acosta,1,1,60,5014,pacosta1@mdc.edu,2,1,90,0,60
+9091,Harville,McGregor,1,1,60,5013,harvillemcg@gmail.com,2,1,90,0,60
+9092,Stacy,Guerrier,10,1,10,5013,stacy.guerrier001@mymdc.net,2,1,90,0,60
+9093,Osmel,Gonzalez,1,1,10,5013,osmelgonzalez1989@gmail.com,2,1,90,0,60
+9999,Rebeca,de Ojeda,5,2,1000,4039,,1,1,4,0,8

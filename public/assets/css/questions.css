@@ -1,0 +1,142 @@
+
+.piluku-preloader {
+	z-index: 2147483647;
+}
+
+#new-ques-btn span:before {
+	font-family: FontAwesome;
+	content: "\f0fe";
+	margin-right: 10px;
+}
+
+#add-q-form .row,
+#edit-q-form .row,
+#es-add-q-form .row,
+#es-edit-q-form .row {
+	padding-top: 10px;
+}
+
+#add-q-form .row:first-child,
+#edit-q-form .row:first-child,
+#es-add-q-form .row:first-child,
+#es-edit-q-form .row:first-child {
+	padding-top: 0;
+}
+
+#q-table {
+	text-align: center;
+}
+
+#q-table thead {
+	background: #a9a9a9;
+}
+
+#q-table th {
+	text-align: center;
+	color: #000 !important;
+}
+
+#q-table th:first-child {
+	text-align: right;
+	width: 120px;
+}
+
+#q-table td {
+	color: #000;
+}
+
+#q-table tr td:first-child {
+	text-align: right;
+}
+
+#q-table input[type="checkbox"] {
+	display: initial;
+}
+
+#es-form-outer-container {
+	border-left: 1px dashed #ccc;
+}
+
+#en-form-container .col-sm-2,
+#es-form-container .col-sm-2,
+#edit-en-form-container .col-sm-2,
+#edit-es-form-container .col-sm-2 {
+	text-align: right;
+}
+
+@media (max-width: 767px) {
+	#es-form-outer-container {
+		border-left: none;
+		padding-top: 10px;
+		margin-top: 20px;
+		border-top: 1px dashed #ccc;
+	}
+
+	#en-form-container .col-sm-2,
+	#es-form-container .col-sm-2,
+	#edit-en-form-container .col-sm-2,
+	#edit-es-form-container .col-sm-2 {
+		text-align: initial;
+	}
+}
+
+/*--- generic ---*/
+.fa {
+	cursor: pointer;
+}
+
+.h-30 {
+	height: 30px;
+}
+
+.f-16 {
+	font-size: 16px !important;
+}
+
+.p-t-0 {
+	padding-top: 0;
+}
+
+.p-t-4 {
+	padding-top: 4px;
+}
+
+.f-c-5 {
+	color: #555 !important;
+}
+
+.bdr-red {
+	border-color: #f00 !important;
+}
+
+@media (min-width: 768px) {
+	.sm-p-l-0 {
+		padding-left: 0 !important;
+	}
+
+	.sm-p-l-25 {
+		padding-left: 25px;
+	}
+}
+
+/*--- overrides ---*/
+
+.sweet-overlay, .sweet-alert {
+	z-index: 9999999999;
+}
+
+.modal {
+	z-index: 999999999;
+}
+
+.select2 {
+	margin-bottom: 10px;
+}
+
+.select2-container--default .select2-selection--multiple {
+	border: none !important;
+}
+
+.select2-selection__rendered {
+	border: 1px solid #d7dce5;
+}

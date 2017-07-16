@@ -1,0 +1,245 @@
+#wrapper {
+	padding: 10px 250px;
+}
+
+.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, 0.8);
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
+}
+
+.sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #fff;
+	display: block;
+	transition: 0.3s
+}
+
+.sidenav a:hover, .offcanvas a:focus{
+	color: #f1f1f1;
+}
+
+.sidenav #sidenav-close-btn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+#sidenav-open-btn {
+	cursor: pointer;
+	font-size: 30px;
+}
+
+.lang {
+	float: right;
+	padding: 3px 9px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.matrix-flow table thead th,
+.matrix-flow table tbody td {
+	text-align: center;
+}
+
+.matrix-flow table thead th:first-child,
+.matrix-flow table tbody td:first-child {
+	text-align: initial;
+}
+
+.img-upload-btn {
+	text-align: center;
+	padding: 30px 0;
+	background: #f1f1f1;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.rating-flow .level {
+	margin-right: 30px;
+}
+
+.img-upload-btn:hover {
+	background: #d1d1d1;
+}
+
+table td {
+	border: none !important;
+}
+
+table th {
+	border-bottom-width: 1px !important;
+}
+
+.matrix-flow  table td,
+.matrix-flow  table th {
+	font-size: 16px;
+	font-weight: 100;
+}
+
+.question h3 {
+	margin-top: 0;
+}
+
+.flow-separator {
+	border-top-width: 2px;
+	margin: 40px 0 30px;
+}
+
+.check-radio {
+  margin-bottom: 0px;
+}
+
+.check-radio .checkboxes-radio li {
+  padding-right: 20px;
+}
+
+input[type="checkbox"] + label,
+input[type="radio"] + label {
+  font-weight: 300 !important;
+  color: #aaaaaa;
+  font-size: 12px;
+  letter-spacing: 0.25px;
+  line-height: 19px;
+  margin: 0px;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"] + label span {
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+  margin: -1px 4px 0 0;
+  vertical-align: middle;
+  background: url(../images/cbr.png) left top no-repeat;
+  cursor: pointer;
+  margin: 0px;
+}
+
+input[type="checkbox"]:checked + label span {
+  background: url(../images/cbr.png) -19px top no-repeat;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+input[type="radio"] + label span {
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+  margin: -1px 4px 0 0;
+  vertical-align: middle;
+  background: url(../images/cbr.png) -38px top no-repeat;
+  cursor: pointer;
+  margin: 0px;
+}
+
+input[type="radio"]:checked + label span {
+  background: url(../images/cbr.png) -57px top no-repeat;
+}
+
+.page-navigation-container input[type="button"] {
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+}
+
+.bg-ccc {
+	background: #ccc !important;
+}
+
+.bg-green {
+	background: green;
+}
+
+.bg-red {
+	background: #d55f5f;
+}
+
+.bg-orange {
+	background: orange;
+}
+
+.bg-trans-red {
+	background: rgba(255, 0, 0, 0.3);
+}
+
+.thumb {
+	height: 75px;
+	border: 1px solid #000;
+	margin: 10px 5px 0 0;
+}
+
+input[name="preview-btn"] {
+	margin-top: 7px;
+}
+
+#modal-images-preview .col-sm-3 {
+	text-align: right;
+}
+
+#modal-images-preview hr {
+	margin: 10px 0;
+}
+
+#modal-images-preview textarea {
+	height: 75px;
+}
+
+#modal-images-preview img {
+	height: 75px;
+	border: 2px solid #000;
+}
+
+#show-add-question,
+#show-add-question-bank {
+	border-radius: 0;
+	text-align: left;
+	border: none;
+	border-top: 1px solid #eee;
+}
+
+.m-l-10 {
+	margin-left: 10px;
+}
+
+@media screen and (max-height: 450px) {
+	.sidenav {
+		padding-top: 15px;
+	}
+	.sidenav a {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 768px) {
+	.wrapper {
+		padding: 10px 50px !important;
+	}
+
+	.question h3 {
+		font-size: 16px;
+		font-weight: bold;
+	}
+}
+
+@media (max-width: 420px) {
+	.wrapper {
+		padding: 10px !important;
+	}
+}

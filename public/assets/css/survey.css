@@ -1,0 +1,173 @@
+#new-survey-btn span:before {
+	font-family: FontAwesome;
+	content: "\f0fe";
+	margin-right: 10px;
+}
+
+.survey-list-item {
+	padding: 10px 10px 0;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+.survey-list-item:first-child {
+	margin-top: 0;
+}
+
+.survey-list-item:hover {
+	background-color: #f9f9f9;
+}
+
+table td {
+	border: none !important;
+}
+
+#s-table tbody tr td:first-child {
+	cursor: pointer;
+}
+
+#add-survey-form .row,
+#edit-survey-form .row {
+	padding-top: 10px;
+}
+
+#add-survey-form .row:first-child,
+#add-survey-form .row:first-child {
+	padding-top: 0;
+}
+
+#add-survey-form select {
+	color: #999;
+}
+
+#show-edit-survey {
+	border-radius: 3px;
+}
+
+#survey-industry {
+	color: #999;
+}
+
+.f-c-5 {
+	color: #555 !important;
+}
+
+.bdr-red {
+	border-color: #f00;
+}
+
+#import-ques-btn span:before {
+	font-family: FontAwesome;
+	content: "\f0fe";
+	margin-right: 10px;
+}
+
+#import-ques-btn {
+	margin-top: 20px;
+}
+
+.fa {
+	cursor: pointer;
+}
+
+.m-t-0 {
+	margin-top: 0;
+}
+
+h5 span:first-child {
+	margin-right: 30px;
+}
+
+#preview-question-modal .modal-body h5 {
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+#preview-question-image-option {
+	border: 1px solid #ddd;
+	padding: 15px 0;
+	background: #f9f9f9;
+	cursor: pointer;
+}
+
+#preview-question-matrix-container table th,
+#preview-question-matrix-container table td {
+	text-align: center;
+}
+
+#preview-question-matrix-container table th:first-child,
+#preview-question-matrix-container table td:first-child {
+	text-align: initial;
+}
+
+.f-s-18 {
+	font-size: 18px;
+}
+
+#survey-jobs,
+#edit-survey-jobs {
+	height: 150px;
+}
+
+#survey-jobs optgroup,
+#edit-survey-jobs optgroup {
+	cursor: pointer;
+}
+
+#survey-jobs option,
+#edit-survey-jobs option {
+	cursor: initial;
+}
+
+@media (max-width: 767px) {
+	#import-ques-btn {
+		margin-top: 0;
+	}
+
+	h5 span:first-child {
+		margin-right: 10px;
+	}
+}
+
+/*----- overrides -----*/
+.dataTables_filter {
+	text-align: right;
+	padding-bottom: 5px;
+}
+
+.sweet-overlay, .sweet-alert {
+	z-index: 9999999999;
+}
+
+.modal {
+	z-index: 999999999;
+}
+
+.piluku-preloader {
+	z-index: 2147483647;
+}
+
+#add-question-modal .dataTables_length,
+#add-question-modal .dataTables_filter {
+	width: 50%;
+	display: inline-block;
+}
+
+#add-question-modal .dataTables_paginate {
+	text-align: right;
+}
+
+#add-question-modal .dataTables_wrapper {
+	padding-top: 10px;
+}
+
+#add-question-modal .paginate_button {
+	cursor: pointer;
+	margin: 0 1px;
+}
+
+#add-question-modal thead th {
+	padding: 0;
+}

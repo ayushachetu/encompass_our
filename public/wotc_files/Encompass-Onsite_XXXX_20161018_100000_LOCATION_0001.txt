@@ -1,0 +1,3 @@
+EmployerLocationID|FEIN|SEIN|EntityName|InternalLocationName|ExternalLocationName|LocationType|DateOpened|DateClosed|Street|City|State|PostalCode|PhoneNumber|FaxNumber|EmailAddress|ContactName|ContactStreet|ContactCity|ContactState|ContactPostalCode|ContactPhoneNumber|ContactFaxNumber|ContactEmailAddress
+20-1888766|20-1888766||Encompass Onsite||||||6555 N Powerline Rd. Suite #304|Fort Lauderdale|FL|33309|||||||||||
+

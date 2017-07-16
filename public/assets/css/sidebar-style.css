@@ -1,0 +1,239 @@
+.relative-container {
+    position: relative;
+}
+.navigation-box {
+    position: absolute;
+    top: 0;
+    display: none;
+    background-color: #fff;
+    z-index: 9999;
+    
+    width: 210px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    
+   -webkit-transition:all 1.0s ease-in-out;
+      -moz-transition:all 1.0s ease-in-out;
+      -o-transition:all 1.0s ease-in-out;
+      transition:all 1.0s ease-in-out;
+}
+.navigation-box.open {
+     transform: translate3d(250px, 0px, 0px);
+}
+.sidebar-open,
+.sidebar-close{
+    font-size: 18px;
+    display: inline-block;
+}
+.sidebar-close .bar1, 
+.sidebar-close .bar2, 
+.sidebar-close .bar3 {
+    background-color: #0062a9;
+}
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 3px;
+    background-color: #333;
+    margin: 5px 0;
+    transition: 0.4s;
+}
+
+.nav-close-icon {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.nav-close-icon:hover::before, 
+.nav-close-icon:hover::after {
+  background: #1ebcc5;
+}
+.nav-close-icon::before, 
+.nav-close-icon::after {
+  content: '';
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  margin-top: -1px;
+  background: #0062a9;
+}
+.nav-close-icon::before {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.nav-close-icon::after {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.navigation-box .sidebar-close {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+
+
+.navigation-menu {
+    margin: 10px 0 0px 0px;
+    padding: 0;
+}
+.navigation-menu li {
+    list-style: none;
+}
+.navigation-menu li a {
+    padding: 4px 15px;
+    display: block;
+    color: #333;
+}
+.navigation-menu li.active a,
+.navigation-menu li a:hover{
+   background: #fff;
+    color: #000;
+    text-decoration: none;
+}
+.navigation-heading {
+    font-size:  16px;
+    padding: 10px 0 0 15px;
+    font-weight: 600;
+    color: #197a37;
+}
+
+/*
+==============================================
+slideLeft
+==============================================
+*/
+
+
+.slideOpen{
+	animation-name: slideOpen;
+	-webkit-animation-name: slideOpen;	
+
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;		
+
+	visibility: visible !important;	
+    margin-left: 0;
+}
+
+@keyframes slideOpen {
+	0% {
+		transform: translateX(70%);
+	}
+	50%{
+		transform: translateX(-8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(-4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}
+}
+
+@-webkit-keyframes slideOpen {
+	0% {
+		-webkit-transform: translateX(70%);
+	}
+	50%{
+		-webkit-transform: translateX(-8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(-4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}
+}
+
+/*
+==============================================
+slideRight
+==============================================
+*/
+
+
+.slideClose{
+	animation-name: slideClose;
+	-webkit-animation-name: slideClose;	
+
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;		
+
+	visibility: visible !important;	
+    margin-left: 250px;
+
+}
+
+@keyframes slideClose {
+	0% {
+		transform: translateX(-150%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(-4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(-2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}	
+}
+
+@-webkit-keyframes slideClose {
+	0% {
+		-webkit-transform: translateX(-150%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(-4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(-2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}
+}

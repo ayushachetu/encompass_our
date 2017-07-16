@@ -1,0 +1,330 @@
+JobNumber,JobDescription,ParentJobNumber,SupervisorID,TypeID,Tier1ID,Tier2ID,Tier3ID,Tier5ID,Tier6ID,Tier7ID,Tier8ID,Active,JobAddress1,JobAddress2,JobCity,JobState,JobZip,Point
+1,Balance Sheet,,1000,0,0,0,0,0,0,0,0,1,,,,,,
+2,Tax Job,,1000,0,0,0,0,0,0,0,0,1,,,,,,
+3,AR & AP Discount/Finance,,1000,0,0,0,0,0,0,0,0,1,,,,,,
+4,Fixed Asset Gain/Loss,,1000,0,0,0,0,0,0,0,0,1,,,,,,
+2005,Speciality - Misc,,1,2,1,0,0,0,0,0,0,0,,,,,,
+33,Operations Related,,1000,0,1,0,0,0,0,0,0,1,,,,,,
+1079,MHS- Memorial Hospital Pembroke,,19,2,1,0,0,5,2,0,0,1,7800 Sheridan Street,,Hollywood,FL,33024,
+1043,Broward Health / CDTC,,19,1,1,0,0,15,2,0,0,1,5600 Hollywood Blvd,,Hollywood,FL,33021,
+1044,Broward Health / CDTC,,13,1,1,0,0,15,2,0,0,1,1800 E. Commercial Blvd,,Fort Lauderdale,FL,33309,
+5009,Century Village-Restraurant Restrooms,,44,1,1,0,0,15,2,0,0,1,,,Deerfield Beach,FL,33442,
+5018,Bistro/Lunch,,60,0,1,0,0,91,2,0,0,1,,,,,,
+5010,Century Village - Le Club,,44,1,1,1,0,9,2,0,0,1,,,,,,
+7316,FritzRoy Investment Advisors,,1000,2,1,1,0,15,2,0,0,1,1111 Brickell Ave,,Miami,FL,33131,
+4006,Castle Managment,,1000,2,1,1,0,91,2,0,0,0,2845 Northeast 9th Street,,Fort Lauderdale,FL,33304,
+1011,Bennett Medical Center,,13,1,1,1,1,4,2,0,0,0,201 Nw 82nd Avenue,,Fort Lauderdale,FL,33324,
+1012,4800 Medical Complex,,13,1,1,1,1,4,2,0,0,1,4800 Ne 20th Terrace Suite 401,,Fort Lauderdale,FL,33308,POINT (-80.117371 26.186759)
+1007,University Physicians Pavillion,,13,1,1,1,1,4,2,0,0,1,,,Tamarc,FL,33321,
+1008,Westside Specialty Plaza,,13,1,1,1,1,4,2,0,0,0,,,Plantation,FL,33324,
+1038,Memorial - Housing,,13,6,1,1,1,4,2,3,8,1,,,,,,
+1053,Broward Health Spectrum,,64,1,1,1,1,4,2,4,0,1,1700 NW 49th St ,,Fort Lauderdale,FL,33309,POINT (-80.165284 26.185233)
+1062,Broward Health Spectrum 2,,64,1,1,1,1,4,2,4,0,0,1700 NW 49th St.,,Fort Lauderdale,FL,33309,POINT (-80.16535 26.185609)
+1063,Broward Health Spectrum 2 addition,,64,1,1,1,1,4,2,4,0,0,1700 NW 49th St.,,Fort Lauderdale,FL,33309,POINT (-80.165215 26.184758)
+1027,Lincoln Harris - Pembroke Mob,,19,7,1,1,1,5,2,0,0,1,2261 N. University Drive,,Pembroke Pines,FL,33024,
+1032,MHS- Tech Resource Center,,46,1,1,1,1,5,2,3,2,1,3051 N Commerce Pkwy,,Hollywood,FL,33025,POINT (-80.280205 25.980699)
+1040,MHS - Memorial Manor,,19,1,1,1,1,5,2,3,0,0,777 South Douglas Road,,Pembroke Pines,FL,33025,
+1025,MHS - Regional Hospital South,,1000,1,1,1,1,5,2,3,2,1,3600 Washington Street,,Hollywood,FL,33021,POINT (-80.18035 26.001954)
+1035,MHS - Community Youth Center,,1001,1,1,1,1,5,2,3,2,1,7031 Taft Street ,,Hollywood,FL,33024,POINT (-80.228943 26.025532)
+1037,MHS - Distribution Center,,1001,1,1,1,1,5,2,3,2,1,801 South Douglas Road ,,Pembroke Pines,FL,33025,POINT (-80.26249 26.00261)
+1060,MHS Same-Day Surgery West,,80,1,1,1,1,5,2,3,2,1,501 N. Pembroke Rd.,,Pembroke Pines,FL,33028,POINT (-80.153851 25.996417)
+1061,MHS Same-Day Surgery East,,80,1,1,1,1,5,2,3,2,1,4470 Sheridan St,,Hollywood,FL,33021,POINT (-80.18936 26.031293)
+1058,MHS- Memorial Exec Bldg,,72,1,1,1,1,5,2,3,2,1,3111 Stirling Road ,,Hollywood ,FL,33021,POINT (-80.184689 26.048652)
+1076,MHS- Memorial Dietary Dept,,1001,1,1,1,1,5,2,3,2,1,1901 SW 172nd Ave,,Hollywood,FL,33029,
+1077,MHS Home Health,,1001,1,1,1,1,5,2,3,2,1,7029 Taft Street,,Hollywood,FL,33024,POINT (-80.228471 26.024365)
+1078,MHS- Pediatric Surgical Specialist,,1001,1,1,1,1,5,2,3,0,1,1131 N 35th Ave,,Hollywood,FL,33021,
+1066,MHS- Miramar Mob,,74,1,1,1,1,5,2,3,2,1,1951 Sw 172nd Ave,,Hollywood,FL,33029,POINT (-80.372825 25.990318)
+1071,MHS - Day Care 1,,1001,1,1,1,1,5,2,3,2,1,1850 Park Rd,,Hollywood,FL,33021,POINT (-80.104983 26.364567)
+1073,MHS- It Data Center,,1001,1,1,1,1,5,2,3,2,1,851 S Douglas,,Hollywood,FL,33025,POINT (-80.263513 26.002281)
+1074,MHS- Document Imaging,,1001,1,1,1,1,5,2,3,2,1,801 S. Douglas,,Hollywood,FL,33025,POINT (-80.262578 26.004167)
+1065,MHS- JDCH - Weston,,1006,0,1,1,1,9,2,3,0,1,1865 N Coporate Lakes Boulevard,,Weston,FL,33326,POINT (-80.367533 26.095966)
+1052,Broward Health - Physician Office Building,,1000,1,1,1,1,9,2,4,0,1,3100 Coral Hills Drice,,Pompano Beach,FL,33065,POINT (-80.254541 26.269943)
+1055,Broward Health Sleep Center,,1006,1,1,1,1,9,2,4,0,1,3000 Coral Hills Drive Suite 260,,Coral Springs,FL,33065,POINT (-80.255555 26.268827)
+1056,Broward Health Women's Ctr,,1006,1,1,1,1,9,2,4,0,1,3000 Coral Hills Drive Suite 270,,Coral Springs,FL,33065,POINT (-80.255555 26.268827)
+1057,Broward Health MOB,,71,1,1,1,1,9,2,4,0,1,3100 Coral Hills Drive,,Coral Springs,FL,33065,POINT (-80.254508 26.269924)
+1046,Broward Health - 7th Avenue Family Medical,,1000,1,1,1,1,90,2,0,0,0,,,,,,
+3034,JAFCO,,13,1,1,1,3,4,2,0,0,1,5100 Nob Hill Rd ,,Sunrise,FL,33351,POINT (-80.283959 26.187252)
+3041,Church Of St. Marks,,13,1,1,1,3,4,2,0,0,0,,,,,,
+3045,Broward College - North Campus,,66,1,1,1,3,4,2,5,0,1,1000 Coconut Creek Blvd,,Pompano Beach,FL,33066,POINT (-80.174786 26.242439)
+3018,Broward College Downtown Campus - Day,3008,13,1,1,1,3,4,2,5,0,1,110 East Las Olas Boulevard ,,Fort Lauderdale,FL,33300,POINT (-80.141343 26.119449)
+3019,Broward College Downtown - Night,3008,13,1,1,1,3,4,2,5,0,0,111 East Las Olas Boulevard ,,Fort Lauderdale,FL,33301,
+3030,Broward College Cypress Creek,,13,1,1,1,3,4,2,5,0,0,6400 NW,,Coconut Creek,FL,33309,
+3047,Broward College Central Campus,,13,2,1,1,3,4,2,5,0,1,3501 S.W. Davie Rd,,Fort Lauderdale,FL,33314,
+3007,Broward College Downtown - HEC,3008,13,1,1,1,3,4,2,5,0,1,111 E. Las Olas Blvd.,,Fort Lauderdale,FL,33301,POINT (-80.141813 26.119203)
+3008,Broward College Downtown,,49,1,1,1,3,4,2,5,0,1,225 East Las Olas Boulevard ,,Fort Lauderdale,FL,33301,POINT (-80.141024 26.119535)
+3009,Broward College Downtown Campus - Day,3008,13,1,1,1,3,4,2,5,0,0,112 E. Las Olas Blvd.,,Fort Lauderdale,FL,33302,
+3010,Broward College Downtown Campus - Night,3008,13,1,1,1,3,4,2,5,0,1,113 E. Las Olas Blvd.,,Fort Lauderdale,FL,33303,POINT (-80.141582 26.11918)
+903008,FAU Broward Campus HEC - Night,,13,1,1,1,3,4,2,5,0,0,225 East Las Olas Boulevard ,,Fort Lauderdale,FL,33301,POINT (-80.141322 26.119524)
+903045,Broward College - North Campus,,13,1,1,1,3,4,2,5,0,0,1000 Coconut Creek Blvd,,Pompano Beach,FL,33066,POINT (-80.17486 26.239777)
+903046,FAU Broward Campus HEC - Night,,13,1,1,1,3,4,2,5,0,0,225 East Las Olas Boulevard ,,Fort Lauderdale,FL,33301,POINT (-80.140641 26.119287)
+903012,FAU Davie Campus - Night,,13,1,1,1,3,4,2,9,0,0,3200 College Avenue LA 322 ,,Davie,FL,33314,POINT (-80.237826 26.081765999999998)
+3011,FAU Davie Campus - Day,,13,1,1,1,3,4,2,9,0,0,3200 College Avenue LA 322 ,,Davie,FL,33314,
+3012,FAU Davie Campus - Night,,17,1,1,1,3,4,2,9,0,1,3200 College Avenue LA 322 ,,Davie,FL,33314,POINT (-80.234927 26.082132)
+3013,FAU Davie Campus - Student Union,,65,1,1,1,3,4,2,9,0,1,3200 College Ave.,,Davie,FL,33314,POINT (-80.236804 26.081619)
+3015,FAU Dania Campus - Seatech,,13,1,1,1,3,4,2,9,0,1,101 North Beach Road ,,Dania,FL,33004,POINT (-80.113247 26.054946)
+2016,Jack and Jill Children's Center,,68,5,1,1,3,8,2,0,0,1,1315 West Broward Blvd,,Fort Lauderdale,FL,33312,POINT (-80.159153 26.122101)
+8030,SunEdHigh - Margate,,1,5,1,1,3,8,2,0,0,1,1117 Banks Road,,Margate,FL,33063,
+8031,SunEd High - Oakland Park,,1,5,1,1,3,8,2,0,0,1,2360 West Oakland Park Blvd,,Fort Lauderdale,FL,33311,
+3035,Mary Help of Christian Catholic School,,44,1,1,1,3,9,2,0,0,0,6000 N University Dr. ,,Parkland,FL,33067,
+903042,St. Andrews Catholic School (Upper),,69,1,1,1,3,9,2,0,0,0,9990 NW 29 Street ,,Coral Springs,FL,33065,POINT (-80.258153 26.266272)
+3046,Broward College - Coral Springs Academic Center,,73,1,1,1,3,9,2,5,0,1,9441 Sample Rd,,Pompano Beach,FL,33065,POINT (-80.252066 26.272549)
+3042,St. Andrews Catholic School (Upper),,69,1,1,1,3,9,2,12,0,1,9990 NW 29 Street ,,Coral Springs,FL,33065,POINT (-80.259522 26.264689)
+3043,St. Andrews Catholic School (Lower),3042,44,1,1,1,3,9,2,12,0,1,9990 NW 29 Street ,,Coral Springs,FL,33065,POINT (-80.259522 26.264689)
+3044,St. Andrews Church,,44,2,1,1,3,9,2,12,0,1,500 N Park Rd,,Hollywood,FL,33021,
+3014,Pine Jog Elementary School,,41,1,1,1,3,10,2,1,0,0,6301 Summit Boulevard ,,West Palm Beach,FL,33415,
+1010,Bennett Medical Plaza,1009,13,1,1,1,4,4,2,0,0,0,,,,,,
+4039,Encompass Onsite Corporate Administration,,8,1,1,1,4,4,90,0,0,1,6555 N Powerline Rd.,Suite 304,Fort Lauderdale,FL,33309,POINT (-80.156038 26.208089)
+9200,Admininstration - Human Resources,,8,7,1,1,4,4,90,0,0,1,,,,,,
+4036,Bank of America Bldg - Ft. Lauderdale,,1001,2,1,1,4,5,2,0,0,1,3600 Federal Hwy,,Fort Lauderdale,FL,33308,
+8005,Enterprise Corp,8006,68,5,1,1,4,8,2,10,0,1,1585 N Park Dr.,,Fort Lauderdale,FL,33326,
+4040,Moss Construction,,70,1,1,1,4,9,2,0,0,1,2101 North Andrews Ave Suite 300 ,,Fort Lauderdale,FL,33311,POINT (-80.146393 26.154383)
+904040,Moss Construction,,70,1,1,1,4,9,2,0,0,0,2101 North Andrews Ave Suite 300 ,,Fort Lauderdale,FL,33311,POINT (-80.146357 26.154072)
+5015,Kings Point Clubhous,,19,1,1,1,5,5,2,0,0,0,,,,,,
+5011,Century Village at Deerfield Beach,,37,1,1,1,5,9,2,0,0,1,2400 Centruy Boulevard ,,Deerfield Beach,FL,33442,POINT (-80.139078 26.314204)
+905011,Century Village at Deerfield Beach,,37,1,1,1,5,9,2,0,0,0,2400 Centruy Boulevard ,,Deerfield Beach,FL,33442,POINT (-80.138914 26.314099)
+6008,Urban League of Broward County,,13,1,1,1,6,4,2,0,0,1,560 NW 27th Ave ,,Fort Lauderdale,FL,33311,POINT (-80.239329 25.778388)
+6009,Handy,,13,1,1,1,6,4,2,0,0,1,501 NE 8th Street ,,Fort Lauderdale,FL,33304,POINT (-80.138972 26.133569)
+906008,Urban League of Broward County,,13,1,1,1,6,4,2,5,0,0,560 NW 27th Ave ,,Fort Lauderdale,FL,33311,POINT (-80.178108 26.127575)
+7006,Art Serve,,13,1,1,1,7,4,2,0,0,1,1350 E. Sunrise Blvd ,,Fort Lauderdale,FL,33304,POINT (-80.130292 26.137161)
+8006,Enterprise Holdings - Broward,,68,5,1,1,8,8,2,10,0,1,1585 N Park Drive,,Weston,FL,33326,POINT (-80.364231 26.100748)
+8009,Enterprise Holdings - Martin,,68,5,1,1,8,8,2,10,0,1,6197 SE Federal Highway,,Stuart,FL,34997,POINT (-80.202133 27.130592)
+8010,Enterprise Holdings - Okeechobee,,68,5,1,1,8,8,2,10,0,1,4255 S. Highway 441,,Okeechobee,FL,34974,POINT (-80.784085 27.207349)
+8050,Enterprise - Pembroke Pines 4152,8006,68,6,1,1,8,8,2,10,0,0,8395 Pines Blvd,,Pembroke Pines,FL,33024,POINT (-80.254764 26.010001)
+8051,Enterprise -Plantation 4167,8006,68,5,1,1,8,8,2,10,0,0,999 S. State Road 7,,Plantation,FL,33317,POINT (-80.201673 26.108199)
+8052,Enterprise - Sunrise 416Y,8006,68,5,1,1,8,8,2,10,0,0,2047 N University Drive,,Sunrise,FL,33322,POINT (-80.257227 26.151354)
+8053,Enterprise - Pembroke Pines 16D,8006,68,5,1,1,8,8,2,10,0,0,12399 PEMBROKE RD # 2,,Pembroke Pines,FL,33025,POINT (-80.311409 25.993636)
+8054,Enterprise - Dania 41A7,8006,68,5,1,1,8,8,2,10,0,0,801 S. Federal Highway #817,,Dania,FL,33004,POINT (-80.143303 26.04042)
+8055,Enterprise Davie 41C3,8006,68,5,1,1,8,8,2,10,0,0,9052 State Road 84,,Davie,FL,33324,POINT (-80.271506 26.103813)
+8056,Enterprise - Pembroke Pines1D7,8006,68,5,1,1,8,8,2,10,0,0,17503-B Pines Blvd,,Pembroke Pines,FL,33029,POINT (-80.380708 26.007782)
+8057,Enterprise - Davie 41J3,8006,68,5,1,1,8,8,2,10,0,0,5145 S. University Drive,,Davie,,33328,POINT (-80.252226 26.057052)
+8058,Enterprise -Weston 41WE,8006,68,5,1,1,8,8,2,10,0,0,1585 N Park Dr,,Weston,FL,33326,POINT (-80.252097 26.057004)
+8095,Enterprise- North Lauderdale 41C4,8013,68,5,1,1,8,8,2,10,0,0,981 S State Road 7,,North Lauderdale,FL,33068,POINT (-80.204384 26.216703)
+8096,Enterprise - Fort Lauderdale 41DF,8006,68,5,1,1,8,8,2,10,0,0,1015 W Broward Blvd,,Fort Lauderdale,FL,33312,POINT (-80.155595 26.12215)
+8097,Enterprise- Pompano Beach 4110,8006,68,5,1,1,8,8,2,10,0,0,2831 N. Federal Highway,,Pompano Beach,FL,33064,POINT (-80.098779 26.266782)
+8098,Enterprise- Margate 4118,8006,68,5,1,1,8,8,2,10,0,0,2699 N. State Road 7,,Margate,FL,33063,POINT (-80.201755 26.259741)
+8099,Enterprise -Coral Springs 4138,8006,68,5,1,1,8,8,2,10,0,0,4676 CORAL RIDGE DR,,Coral Springs,FL,33076,POINT (-80.282661 26.288367)
+8100,Enterprise - Coral Springs 4155,8006,68,5,1,1,8,8,2,10,0,0,5860 WILES RD.,,Coral Springs,FL,33067,POINT (-80.205066 26.286136)
+8101,Enterprise - Pompano 415D,8006,68,5,1,1,8,8,2,10,0,0,2400 N Powerline Road,,Pompano Beach,FL,33069,POINT (-80.151788 26.261051)
+8102,Enterprise- Coral Springs 41C6,8006,68,5,1,1,8,8,2,10,0,0,2222 N. University Dr.,,Coral Springs,FL,33071,POINT (-80.250189 26.258487)
+8103,Enterprise- Deerfield Beach 41PB,8006,68,5,1,1,8,8,2,10,0,0,160 E Hillsboro Blvd,,Deerfield Beach,FL,33431,POINT (-80.100341 26.318365)
+8104,Truck Rental Pompano Beach- 41Z7,8006,68,5,1,1,8,8,2,10,0,0,1730 N Powerline Rd,,Pompano Beach,FL,33069,POINT (-80.151635 26.250711)
+8105,Enterprise- Pompano Beach 4132,8006,68,5,1,1,8,8,2,10,0,0,330 S. Federal Hwy,,Pompano Beach,FL,33062,POINT (-80.102537 26.228344)
+8106,Enterprise- Lauderhill 4145,8006,68,5,1,1,8,8,2,10,0,0,4917 N University Dr,,Lauderhill,FL,33351,POINT (-80.252017 26.186772)
+8107,Enterprise - Wilton Manors 41G1,8006,68,5,1,1,8,8,2,10,0,0,201 W. Oakland Pk Blvd.,,Wilton Manors,FL,33311,POINT (-80.147874 26.166549)
+8178,Enterprise - Fort Lauderdale 41G6,8006,68,5,1,1,8,8,2,10,0,0,6606 N. Andrews Ave,,Fort Lauderdale,FL,33309,POINT (-80.144893 26.207805)
+8179,Enterprise - Lauderdale Lakes 4108,8006,68,5,1,1,8,8,2,10,0,0,2200 N. State Road 7,,Lauderdale Lakes,FL,33313,POINT (-80.202812 26.154162)
+8167,Enterprise - Fort Lauderdale 4137,8006,68,5,1,1,8,8,2,10,0,0,1020 NW 62nd Street,,Fort Lauderdale,FL,33309,POINT (-80.157889 26.202643)
+8176,Enterprise - Fort Lauderdale 4131,8006,68,5,1,1,8,8,2,10,0,0,1880 S. State Road 7,,Fort Lauderdale,FL,33317,POINT (-80.20114 26.098282)
+8191,Enterprise - Pembroke Pines 4166,8006,68,5,1,1,8,8,2,10,0,0,8600 Pine Blvd.,,Pembroke Pines,FL,33024,POINT (-80.258082 26.008704)
+8163,Enterprise - Coconut Creek 415G,8006,68,5,1,1,8,8,2,10,0,0,5201 W. Sample Road,,Coconut Creek,FL,33073,POINT (-80.194728 26.275701)
+8169,Enterprise - Fort Lauderdale 41A1,8006,68,5,1,1,8,8,2,10,0,0,1240 N. Federal Hwy,,Fort Lauderdale,FL,33304,POINT (-80.119888 26.141105)
+8170,Enterprise - Fort Lauderdale 4101,8006,68,5,1,1,8,8,2,10,0,0,1311 E. Sunrise Blvd.,,Fort Lauderdale,FL,33304,POINT (-80.129839 26.137319)
+8171,Enterprise - Sunrise 41Y3,8006,68,5,1,1,8,8,2,10,0,0,14351 W. Sunrise Blvd.,,Sunrise,FL,33323,POINT (-80.335127 26.147159)
+8172,Enterprise - Sunrise 41C2,8006,68,5,1,1,8,8,2,10,0,0,1451 W. Sunrise Blvd.,,Sunrise,FL,33323,POINT (-80.161635 26.136658)
+8173,Enterprise - Davie 41H5,8006,68,5,1,1,8,8,2,10,0,0,15700 Rick Case Honda Way,,Davie,FL,33331,POINT (-80.358776 26.065806)
+8181,Enterprise- Fort Lauderdale 41G3,8006,68,5,1,1,8,8,2,10,0,0,2601 S Federal Hwy,,Fort Lauderdale,FL,33316,POINT (-80.13973 26.089979)
+8182,Enterprise - Hollywood 4190,8006,68,5,1,1,8,8,2,10,0,0,2090 N. State Road 7,,Hollywood,FL,33021,POINT (-80.208369 26.027824)
+8183,Enterprise - Pembroke Pines 4160,8006,68,5,1,1,8,8,2,10,0,0,300 S. University Drive,,Hollywood,FL,33024,POINT (-80.248201 26.006671)
+8184,Enterprise - 41Y4 Fort Lauderdale,8006,68,5,1,1,8,8,2,10,0,0,3495 SW 9th Ave,,Fort Lauderdale,FL,33315,POINT (-80.153276 26.081213)
+8185,Enterprise - Tamarac 412A,8006,68,5,1,1,8,8,2,10,0,0,3710 W. Commercial Blvd.,,Tamarac,FL,33309,POINT (-80.199251 26.186265)
+8186,Enterprise - Oakland Park 416G,8006,68,5,1,1,8,8,2,10,0,0,501 oakland Park Blvd,,Oakland Park,FL,33334,POINT (-80.140147 26.1667)
+8187,Enterprise - Tamarac 41X1,8006,68,5,1,1,8,8,2,10,0,0,5901 Madison Ave,,Tamarac,FL,33321,POINT (-80.291191 26.196301)
+8188,Enterprise - Miramar 4106,8006,68,5,1,1,8,8,2,10,0,0,2150 S.State Road 7,,Miramar,FL,33023,POINT (-80.206926 25.990798)
+8189,Enterprise - Plantation 412E,8006,68,5,1,1,8,8,2,10,0,0,777 N State Road 7,,Plantation,FL,33317,POINT (-80.202541 26.132954)
+8142,Enterprise - Lauderdale Lakes 4176,8006,68,5,1,1,8,8,2,10,0,0,2150 N.State Road 7,,Lauderdale Lakes,FL,33415,POINT (-80.202813 26.15367)
+8143,Enterprise- Lauderdale Lakes 41Z1,8006,68,5,1,1,8,8,2,10,0,0,2200 N. State Road 7,,Lauderdale Lakes,FL,33313,POINT (-80.202803 26.154125)
+8144,Enterprise - Fort Lauderdale 41Z3,8006,68,5,1,1,8,8,2,10,0,0,2601 S. Federal Hwy,,Fort Lauderdale,FL,33316,POINT (-80.139792 26.09001)
+8012,Enterprise Holdings - St. Lucie,,68,5,1,1,8,8,2,10,0,1,975 S. US Highway 1,,Fort Pierce,FL,34950,POINT (-80.325962 27.43677)
+8013,Enterprise - Monroe,,68,5,1,1,8,8,2,10,0,1,2516 N Roosevelt Blvd,,Key West,FL,33040,
+8159,Enterprise - Pompano Beach 416M,8006,68,5,1,1,8,8,2,10,0,0,400 West Copans road,,Pompano Beach,FL,33064,POINT (-80.13055 26.258176)
+8161,Enterprise- Coconut Creek 41D5,8006,68,5,1,1,8,8,2,10,0,0,4401 W. Sample Road,,Coconut Creek,FL,33073,POINT (-80.183837 26.273971)
+9001,GA Telesis,,13,1,1,1,9,4,2,0,0,1,1850 NW 49th St ,,Fort Lauderdale,FL,33309,
+9002,GA Telesis-2,,13,1,1,1,9,4,2,0,0,0,3420 NW 53rd St ,,Fort Lauderdale,FL,33309,
+909001,GA Telesis,,13,1,1,1,9,4,2,0,0,0,1850 NW 49th St ,,Fort Lauderdale,FL,33309,
+7009,Broward Center For The Performing Arts,,13,3,1,1,10,4,5,0,0,1,201 Sw 5th Avenue,,Fort Lauderdale,FL,33312,POINT (-80.150341 26.119606)
+2013,United Site Services,,68,3,1,1,10,8,5,0,0,1,3540 Burris Rd,,Davie,FL,33314,POINT (-80.2085 26.078579)
+1047,Broward Health - Specialty Care Center,,1000,1,1,1,90,90,2,0,0,0,,,,,,
+1048,Broward Health - Comprehensive Care Center,,1000,1,1,1,90,90,2,0,0,0,,,,,,
+8015,Navarro - Cvs,,1000,5,1,1,90,90,7,0,0,0,,,,,,
+1000,Executive Management,,30,7,1,1,90,90,90,0,0,1,,,,,,
+2002,Specialty Team - South Broward,,15,2,1,1,90,90,90,0,0,0,,,,,,
+2003,Specialty Team - North Broward,,15,2,1,1,90,90,90,0,0,0,,,,,,
+4500,Administration,,15,7,1,1,90,90,90,0,0,1,,,,,,
+4501,Administration - Encompass Rebranding,,30,7,1,1,90,91,90,0,0,1,,,,,,
+4502,General. - One Time Expenses,,30,7,1,1,90,91,90,0,0,1,,,,,,
+4503,Operational R&D,,30,7,1,1,90,91,90,0,0,1,,,,,,
+4504,Software Development,,1000,5,1,1,90,91,90,0,0,1,,,,,,
+9004,Boss Controls,,30,7,1,1,90,91,90,0,0,1,4117 Liberty Ave,,Pittsburgh,PA,15224,
+901058,MHS- Memorial Exec Bldg,,1001,1,1,2,1,5,2,3,2,0,3111 Stirling Road ,,Hollywood ,FL,33021,POINT (-80.184432 26.047494)
+1075,MHS- Physicans Relations Building,,72,1,1,2,1,5,2,3,2,1,3107  Stirling Road Suite 101,,Hollywood ,FL,33021,POINT (-80.183288 26.047948)
+1072,MHS- Day Care 2,1071,1001,1,1,2,1,5,2,3,2,1,3329 Wilson St,,Hollywood,FL,33021,POINT (-80.176569 26.026831)
+1067,MHS - Dr. Palamara,,19,1,1,2,1,5,2,3,0,0,3850 Hollywood Blvd,Suite 302,Hollywood,FL,33021,
+1069,MHS- Talent Acquistion Cnt/EGB,,1001,1,1,2,1,5,2,3,2,1,4320 Sheridan Street,,Hollywood,FL,33021,POINT (-80.188424 26.032672)
+1033,MHS - H.S. Support Services,,46,1,1,2,1,5,2,3,2,1,2900 Corporate Way,,Miramar,FL,33025,POINT (-80.286016 25.982498)
+1034,MHS - Memorial Training Center,,46,1,1,2,1,5,2,3,2,1,2990 Corporate Way,,Miramar,FL,33025,POINT (-80.288991 25.982744)
+1045,Women's Health Center Of Miami,,15,1,1,2,1,7,2,7,0,0,,,,,,
+1051,Broward Health Children's Diagnostic Center,,75,1,1,2,1,9,2,4,0,1,1401 S Federal Hgwy ,,Fort Lauderdale,FL,33316,POINT (-80.140833 26.102338)
+901057,Broward Health MOB,,71,1,1,2,1,9,2,4,0,0,3100 Coral Hills Drive,,Coral Springs,FL,33065,POINT (-80.254222 26.268682)
+1059,UMH Floors,,15,1,1,2,1,15,2,7,0,1,1400 NW 12th Ave,,Miami,FL,33136,
+1003,University Of Miami Hospital,,81,1,1,2,1,15,2,7,0,1,1321 Nw 14th Street Suite 509,,Miami,FL,33175,POINT (-80.215984 25.787652)
+3038,Somerset Miramar,,79,1,1,2,3,5,2,0,2,1,9300 Pembroke Rd ,,Miramar,FL,33025,POINT (-80.267678 25.993871)
+3039,Florida Bible,,79,1,1,2,3,5,2,0,2,1,9300 Pembroke Road ,,Miramar,FL,33025,POINT (-80.267664 25.993855)
+903038,Somerset Miramar,,79,1,1,2,3,5,2,0,2,0,9300 Pembroke Rd ,,Miramar,FL,33025,POINT (-80.267669 25.993951)
+9303,Miami Dade _Kendall Campus,,15,2,1,2,3,11,2,6,0,0,11011 Sw 104 St,,Miami,FL,33176,
+3027,Miami Dade College - Homestead,,63,1,1,2,3,15,2,6,0,1,500 College Terrace B-206 ,,Homestead,FL,33030,POINT (-80.474069 25.474524)
+3037,Miami Dade College- West Campus,,16,1,1,2,3,15,2,6,0,1,3800 NW 115th Ave ,,Doral,FL,33178,POINT (-80.383924 25.808692)
+3040,Florida International University,,20,1,1,2,3,15,2,7,0,1,11200 SW 8 St. ,,Miami,FL,33174,POINT (-80.373897 25.75601)
+4035,Bank of America Bldg - Miami,,1001,1,1,2,4,5,2,0,2,1,17100 Collins Avenue North ,,Miami Beach,FL,33160,POINT (-80.122299 25.941456)
+4042,PS Business Parks - TSA,,1,1,1,2,4,8,2,0,0,0,,,,,,
+4013,PS Business Parks - Home Office,,1,1,1,2,4,8,2,0,0,0,8216 NW 14th Street,,Miami,FL,33126,
+4044,Art Miami Corporate Office,,1,1,1,2,4,8,2,11,1,1,3101 NE 1st Ave,,Miami,FL,33137,POINT (-80.19217 25.806062)
+6026,H.A. Contracting Corp,,68,2,1,2,4,8,90,0,0,1,9500 NW 12 Street Bay 1,,Miami,FL,33172,POINT (-80.144376 26.140454)
+4037,RLG Properties,,1007,1,1,2,4,15,2,0,0,1,705 Washington Avenue ,,Miami Beach,FL,33139,POINT (-80.133256 25.777076)
+9003,Ga Telesis Miami,,15,0,1,2,4,15,2,0,0,1,3950 Nw 28th Street,,Miami,FL,33142,
+6025,St Franklin Street,,15,2,1,2,4,15,7,0,0,1,STE 201,,Miami,FL,33156,
+4018,CBRE Inc. - 800 Brickell,,1007,1,1,2,4,15,7,0,0,1,800 Brickell,Suite 101,Miami,FL,33131,POINT (-80.190437 25.766862)
+5012,Arlen House East,,19,1,1,2,5,5,2,0,0,0,100 Bayview Drive ,,Sunny Isles Beach,FL,33160,
+5013,Tuyo Cafe,,60,1,1,2,5,90,6,0,0,1,,,,,,
+5014,Tuyo Restaurant,,60,1,1,2,5,90,6,0,0,1,300 NE 2nd Ave  1510 ,,Miami,FL,33132,
+15014,Tuyo Specialty Work,,15,2,1,2,5,91,2,0,0,1,,,,,,
+6002,Department of Homeland Security,,1,1,1,2,6,8,2,0,0,0,,,,,,
+7008,Jackson Health System,,68,1,1,2,7,8,2,0,0,1,"1611 NW 12th Ave,",,Miami,FL,33136,POINT (-80.210366 25.79296)
+7005,Art Miami,,68,3,1,2,7,8,5,11,0,1,48 NW 29th Street ,,Miami,FL,33127,POINT (-80.192186 25.805215)
+7007,Art Wynwood,,68,3,1,2,7,8,5,11,0,1,2901 NE 1st Ave,,Miami,FL,33137,POINT (-80.193448 25.805378)
+8081,Alamo Rent a Car- Miami Beach 41AS,8007,68,5,1,2,8,8,2,0,0,0,"4332 Collins, Ste. 104",,Miami Beach,FL,33140,POINT (-80.12275 25.814903)
+8063,Alamo Rent A Car- North Miami Beach 41AR/AN,8007,1,5,1,2,8,8,2,0,0,0,18080 Collins Ave,,North Miami Beach,FL,33160,POINT (-80.121275 25.943096)
+8064,Enterprise - Miami 41B4,8007,68,5,1,2,8,8,2,10,0,0,18990 NW 2nd Avenue,,Miami,FL,33169,POINT (-80.20552 25.948603)
+8065,Enterprise - Miami 41D2,8007,68,5,1,2,8,8,2,10,0,0,19002 W. Dixie Highway,,Miami,FL,33180,POINT (-80.148979 25.95156)
+8066,Enterprise - Miami 4103,8007,68,5,1,2,8,8,2,10,0,0,16011 S. Dixie Highway,,Miami,FL,33157,POINT (-80.341267 25.620598)
+8067,Enterprise - Hialeah Gardens 4107,8007,68,5,1,2,8,8,2,10,0,0,10200 NW 77 Ave,,Hialeah Gardens,FL,33016,POINT (-80.323278 25.865866)
+8068,Enterprise - Coral Gables 4112,8007,68,5,1,2,8,8,2,10,0,0,4125 Ponce De Leon Blvd,,Coral Gables,FL,33146,POINT (-80.258456 25.733131)
+8069,Enterprise - Homestead 4116,8007,68,5,1,2,8,8,2,10,0,0,29130 S. Dixie Hwy,,Homestead,FL,33033,POINT (-80.449907 25.496045)
+8070,Enterprise - Miami 4120,8007,68,5,1,2,8,8,2,10,0,0,8462 SW 8th Street,,Miami,FL,33144,POINT (-80.33381 25.76187)
+8071,Enterprise - Doral 4125,8007,68,5,1,2,8,8,2,10,0,0,2118 NW 107 Avenue,,Doral,FL,33172,POINT (-80.369065 25.794215)
+8072,Enterprise - Miami 4126,8007,68,5,1,2,8,8,2,10,0,0,13511 SW 137th Avenue,,Miami,FL,33186,POINT (-80.414699 25.641709)
+8073,Enterprise - Miami 4127,8007,68,5,1,2,8,8,2,10,0,0,328 Crandon Blvd #117,,Miami,FL,33149,POINT (-80.163068 25.695564)
+8074,Enterprise - Hialeah 4149,8007,68,5,1,2,8,8,2,10,0,0,940 E 49 Street,,Hialeah,FL,33013,POINT (-80.264108 25.867334)
+8075,Enterprise - Miami Beach 4154,8007,68,5,1,2,8,8,2,10,0,0,1801 Bay Rd.,,Miami Beach,FL,33139,POINT (-80.143382 25.793587)
+8076,Enterprise - Virginia Gardens 4163,8007,68,0,1,2,8,8,2,10,0,0,3958 Curtiss Parkway,,Virginia Gardens,FL,33166,POINT (-80.289325 25.810387)
+8077,Enterprise - Miami 4182,8007,68,5,1,2,8,8,2,10,0,0,12037 SW 117th Avenue,,Miami,FL,33186,POINT (-80.383339 25.655472)
+8078,Enterprise - Miami 4196,8007,68,5,1,2,8,8,2,10,0,0,5721 SW 137th Avenue,,Miami,FL,33183,POINT (-80.414972 25.713368)
+8079,Enterprise -Miami 413A,8007,68,5,1,2,8,8,2,10,0,0,3100 NW 27th Ave,,Miami,FL,33142,POINT (-80.240172 25.8046)
+8080,Enterprise - Doral 413D,8007,68,5,1,2,8,8,2,10,0,0,9831 NW 58 Street,,Doral,FL,33178,POINT (-80.356406 25.826248)
+8007,Enterprise Holdings - Dade,,68,5,1,2,8,8,2,10,0,1,17720 S. Dixie Highway,,Perrine,FL,33157,POINT (-80.349426 25.604845)
+8059,Enterprise - Miami 4115,8007,68,5,1,2,8,8,2,10,0,0,15401 W. Dixie Highway,,Miami,FL,33162,POINT (-80.160754 25.917442)
+8060,Enterprise -North Miami Beach 4172,8007,68,5,1,2,8,8,2,10,0,0,"16850 Collins Ave, suite 113E",,North Miami Beach,FL,33160,POINT (-80.123097 25.931973)
+8061,Enterprise - Miami 413L,8007,68,5,1,2,8,8,2,10,0,0,650 NE 167th Street,,Miami,FL,33162,POINT (-80.187958 25.928522)
+8062,Enterprise - Miami Gardens 416C,8007,68,5,1,2,8,8,2,10,0,0,19674 NW 27TH Ave,,Miami Gardens,FL,33056,POINT (-80.247017 25.952776)
+8082,Enterprise- Miami 41B3,8007,68,5,1,2,8,8,2,10,0,0,17750 S. Dixie Highway,,Miami,FL,33157,POINT (-80.351442 25.604738)
+8083,Enterprise - Miami 41C8,8007,68,5,1,2,8,8,2,10,0,0,7275 SW 40th Stree,,Miami,FL,33155,POINT (-80.312515 25.73324)
+8084,Enterprise -Miami 41DS,8007,68,5,1,2,8,8,2,10,0,0,8324 S Dixie Hwy,,Miami,FL,33143,POINT (-80.304916 25.692731)
+8085,Enterprise - Miami 41J1,8007,68,5,1,2,8,8,2,10,0,0,940 NW 27 Avenue,,Miami,FL,33125,POINT (-80.239526 25.782068)
+8086,Enterprise -Miami 41LJ,8007,68,5,1,2,8,8,2,10,0,0,1100 NW 42nd Ave,,Miami,FL,33126,
+8087,Enterprise - Miami 41M1,8007,68,5,1,2,8,8,2,10,0,0,9800 S. Dixie Hwy Unit #1,,Miami,FL,33156,POINT (-80.317208 25.679444)
+8088,Enterprise- Miami 41M9,8007,68,5,1,2,8,8,2,10,0,0,3621 S. Dixie Highway,,Miami,FL,33131,POINT (-80.25207 25.734364)
+8089,Enterprise - Miami 41N8,8007,68,5,1,2,8,8,2,10,0,0,7305 SW 107 Avenue,,Miami,FL,33173,POINT (-80.366132 25.700217)
+8090,Enterprise - Miami 41NM,8007,68,5,1,2,8,8,2,10,0,0,1450 NW 123rd St,,Miami,FL,33161,POINT (-80.222711 25.886881)
+8091,Enterprise - Miami 4179,8007,68,5,1,2,8,8,2,10,0,0,17720 S Dixie Hwy,,Miami,FL,33157,POINT (-80.349391 25.604879)
+8145,Enterprise - Hialeah Gardens 41Z2,8007,68,5,1,2,8,8,2,10,0,0,10200 N.W. 77th Ave.,,Hialeah,FL,33016,POINT (-80.323299 25.865891)
+8146,Enterprise - Miami TBD,8007,68,5,1,2,8,8,2,10,0,0,3011 N.W 36th Street,,Miami,FL,33142,POINT (-80.244925 25.809179)
+8177,Enterprise - Miami 4147,8007,68,0,1,2,8,8,2,10,0,0,21400 NW 2nd Ave.,,Miami,FL,33169,POINT (-80.206205 25.971522)
+8168,Enterprise - Miami Gardens 41B5,8007,68,5,1,2,8,8,2,10,0,0,1200 NW 167th Street,,Miami Gardens,FL,33169,POINT (-80.218664 25.926984)
+8180,Enterprise - Hallandale 4123,8007,68,5,1,2,8,8,2,10,0,0,25 pembroke Road,,Hallandale,FL,33009,POINT (-80.167729 25.995921)
+8190,Enterprise - Dania 41H7,8007,68,5,1,2,8,8,2,10,0,0,801 S. Federal Hwy #817,,Dania,FL,33004,POINT (-80.143295 26.040299)
+8174,Enterprise - Miami Lakes 4164,8007,68,5,1,2,8,8,2,10,0,0,16800 NW 57th Ave,,Miami Lakes,FL,33015,POINT (-80.29336 25.926052)
+8175,Enterprise - Miami Lakes 4144,8007,68,5,1,2,8,8,2,10,0,0,5690 NW 167th Street,,Miami Lakes,FL,33014,POINT (-80.292192 25.92476)
+8025,"Apple, Inc.",,68,6,1,2,8,8,9,0,0,1,1 Alhambra Plaza #700,,Coral Gables,FL,33134,POINT (-80.254765 25.752869)
+2001,Specialty Team - Miami Dade,,15,2,1,2,90,90,90,0,0,0,,,,,,
+7010,Palm Beach Modern Art,,1,3,1,3,0,8,2,0,0,1,,,,,,
+1041,UHealth - Boca,,25,1,1,3,1,1,2,7,3,1,3848 FAU Boulevard Suite 305,,Boca Raton,FL,33431,POINT (-80.097483 26.383791)
+1009,Bennett Medical Plaza - Garage,,13,1,1,3,1,4,2,0,0,0,6056 Boynton Beach Blvd,Suite 235,Boynton Beach,FL,33437,
+1070,MHS- Endo Surgery,,1006,1,1,3,1,9,2,3,0,1,900  Glades Rd,,Boca Raton,FL,33431,POINT (-80.104967 26.36462)
+1068,MHS- Jdch Pediatric - Boca,,1006,1,1,3,1,9,2,3,0,1,9291 Glades Rd,,Boca Raton,FL,33431,POINT (-80.190674 26.368753)
+3000,FAU Boca Campus - Day,3001,18,1,1,3,3,1,2,1,3,1,777 Glades Road Campus Operations ,Bldg 69 Room 106 ,Boca Raton,FL,33431,POINT (-80.102446 26.365372)
+3001,Florida Atlantic University-Boca Raton,,35,1,1,3,3,1,2,1,3,1,777 Glades Rd,"Building #5, Suite 212",Boca Raton,FL,33431,POINT (-80.102402 26.365416)
+3002,FAU Boca Campus - Worktickets,,1000,1,1,3,3,1,2,1,3,1,777 Glades Road North University Drive ,,Boca Raton,FL,33431,POINT (-80.102058 26.370698)
+3003,FAU Boca - Campus Rec,,1000,1,1,3,3,1,2,1,3,1,777 Glades Road Bldg 91 Room 212,,Boca Raton,FL,33431,POINT (-80.102551 26.36541)
+3004,FAU Boca Campus - Moving,3001,1000,1,1,3,3,1,2,1,3,1,777 Glades Road Bldg 91 Room 101,,Boca Raton,FL,33431,POINT (-80.102551 26.36541)
+3005,FAU Boca Campus - Gumbo Limbo,,18,1,1,3,3,1,2,1,3,1,1801 North Ocean Boulevard,,Boca Raton,FL,33432,POINT (-80.069983 26.366969)
+3006,FAU - BioMedical Research Park,,25,1,1,3,3,1,2,1,3,1,Simulation Center 3998 FAU Blvd ,Suite 200 ,Boca Raton,FL,33431,POINT (-80.095901 26.382768)
+3036,FAU Business Services,,77,1,1,3,3,1,2,1,3,1,777 Glades Rd Building 8w Room 124,,Boca Raton,FL,33431,POINT (-80.102566 26.365504)
+3029,FAU Boca Campus - Student Union,,76,1,1,3,3,1,2,1,3,1,777 Glades Road UN31 Building 31 ,,Boca Raton,FL,33431,POINT (-80.101018 26.373664)
+3023,FAU Boca Campus - Breezeway,,54,1,1,3,3,1,2,1,3,1,777 Glades Road North University Drive ,,Boca Raton,FL,33428,POINT (-80.102222 26.370623)
+3031,FAU Boca Campus - Pressure Cleaning,,1000,1,1,3,3,1,2,1,3,1,777 Glades Road,,Boca Raton,FL,33431,POINT (-80.101018 26.373664)
+3016,FAU - A.D. Henderson University School,,25,1,1,3,3,1,2,1,3,1,777 Glades Road PO Box 3091 ,,Boca Raton,FL,33431,POINT (-80.09614 26.373313)
+3017,FAU - Karen Slattery Research Center,,25,1,1,3,3,1,2,1,3,1,777 Glades Road Building 45 ,,Boca Raton,FL,33431,POINT (-80.102631 26.365514)
+3020,EMI Lab,3001,18,1,1,3,3,1,2,1,3,1,3998 N.W. 8th Avenue. Suite 310,,Boca Raton,FL,33431,POINT (-80.102135 26.370678)
+3021,FAU Boca Campus - Greenhouse,,54,1,1,3,3,1,2,1,3,1,777 Glades Road North University Drive ,,,,,POINT (-80.142589 26.663718)
+903000,FAU Boca Campus - Day,3001,18,1,1,3,3,1,2,1,3,0,777 Glades Road Campus Operations ,Bldg 69 Room 106 ,Boca Raton,FL,33431,POINT (-80.106185 26.365652999999998)
+903001,Florida Atlantic University-Boca Raton,3001,35,1,1,3,3,1,2,1,3,0,777 Glades Rd,"Building #5, Suite 212",Boca Raton,FL,33431,POINT (-80.106185 26.365652999999998)
+3024,FAU Jupiter Campus - Engineering,3025,43,1,1,3,3,3,2,2,0,1,5353 Parkside Dr.,,Jupiter,FL,33458,POINT (-80.117682 26.887586)
+3028,FAU Jupiter Campus - Worktickets,,43,1,1,3,3,3,2,2,0,1,777 Glades Road,,Jupiter,FL,33431,POINT (-80.103221 26.370235)
+3032,Florida Memorial University - Floor Care,,1,1,1,3,3,8,2,0,0,0,15800 NW 42nd Avenue ,,Opa Locka,FL,33054,
+3033,Florida Memorial University - UHS Maintenance,,1000,1,1,3,3,8,2,0,0,1,15800 NW 42nd Avenue ,,Opa Locka,FL,33054,
+903033,Florida Memorial University - UHS Maintenance,,15,1,1,3,3,8,2,0,0,0,15800 NW 42nd Avenue ,,Opa Locka,FL,33054,
+3025,FAU Jupiter Campus - Custodial,,47,1,1,3,3,10,2,2,0,1,5353 Parkside Drive Building MC04 ,,Jupiter,FL,33458,POINT (-80.117682 26.887586)
+3022,Pine Jog Elementary School - Grounds,3001,41,1,1,3,3,10,2,2,0,1,6315 Summit Blvd,,Boca Raton,FL,33431,POINT (-80.142589 26.663718)
+5000,FAU- Eleanor Baldwin House,,1000,1,1,3,5,1,2,1,3,1,555 Northwest Twentieth Street ,Building 75 ,Boca Raton,FL,33431,POINT (-80.204424 25.796375)
+5001,Baldwin House (residence),,1,1,1,3,5,1,2,1,0,0,,,,,,
+5017,Woodfield Country Club,,61,1,1,3,5,13,2,8,0,0,3650 Club Place,,Boca Raton,FL,33496,
+7001,FAU Boca Campus - Stadium,,18,1,1,3,7,1,2,1,3,1,777 Glades Road North University Drive ,,Boca Raton,FL,33431,POINT (-80.10249 26.365435)
+7002,FAU Boca - Stadium Pre-Event,,35,1,1,3,7,1,2,1,3,1,777 Glades Road North University Drive ,,Boca Raton,FL,33431,POINT (-80.10249 26.365435)
+7003,FAU Boca - Stadium Event,,35,1,1,3,7,1,2,1,3,1,777 Glades Road North University Drive ,,Boca Raton,FL,33431,POINT (-80.10249 26.365435)
+7004,FAU Boca - Stadium Post - Event,,35,3,1,3,7,1,2,1,3,1,777 Glades Road North University Drive,,Boca Raton,FL,33431,POINT (-80.10249 26.365435)
+8164,Enterprise - Greenacres 41W7,8011,68,5,1,3,8,8,2,10,0,0,5757 Lakeworth Road,,Greenacres,FL,33463,POINT (-80.13201 26.619163)
+8165,Enterprise - West Palm Beach 41E3,8011,68,5,1,3,8,8,2,10,0,0,6500 Okeechobee Blvd.,,West Palm Beach,FL,33411,POINT (-80.1462 26.707682)
+8166,Enterprise - North Palm Beach 411M,8011,68,5,1,3,8,8,2,10,0,0,9275 Alt A1A,,North Palm Beach,FL,33403,POINT (-80.077963 26.812225)
+8162,Enterprise - West Palm Beach 417K,8011,68,5,1,3,8,8,2,10,0,0,5133 Tyler Lakes Road,,West Palm Beach,FL,33407,POINT (-80.117866 26.753525)
+8160,Enterprise - West Palm Beach 41B6,8011,68,5,1,3,8,8,2,10,0,0,4000 Okeechobee Blvd.,,West Palm Beach,FL,33409,POINT (-80.103294 26.706686)
+8147,Enterprise - West Palm Beach 1708,8011,68,5,1,3,8,8,2,10,0,0,1805 Belvedere Road,,West Palm Beach,FL,33406,POINT (-80.078431 26.691097)
+8148,Enterprise - Delray Beach 412M,8011,68,5,1,3,8,8,2,10,0,0,1001 Linton Blvd.,,Delray Beach,FL,33444,
+8149,Enterprise - Delray Beach 41W9,8011,68,5,1,3,8,8,2,10,0,0,1311 Linton Blvd.,,Delray Beach,FL,33444,POINT (-80.085917 26.439653)
+8150,Enterprise - West Palm Beach 41BD,8011,68,5,1,3,8,8,2,10,0,0,1500 Perimeter Road,,West Palm Beach,FL,33406,
+8151,Enterprise- West Palm Beach 4168,8011,68,5,1,3,8,8,2,10,0,0,1515 Perimeter Road,,West Palm Beach,FL,33406,
+8152,Enterprise - Jupiter 416P,8011,68,5,1,3,8,8,2,10,0,0,1555 W. Indiantown Road,,Jupiter,FL,33458,
+8153,Enterprise - Lake Worth 41W3,8011,68,5,1,3,8,8,2,10,0,0,2000 10th Ave. north,,Lake Worth,FL,33461,POINT (-80.074069 26.62809)
+8154,Enterprise - West Palm Beach 41E1,8011,68,5,1,3,8,8,2,10,0,0,2200 Indian Road,,West Palm Beach,FL,33409,
+8155,Enterprise- Delray Beach 4197,8011,68,5,1,3,8,8,2,10,0,0,2300 S. federal Hwy,,Delray Beach,FL,33483,POINT (-80.072075 26.434284)
+8156,Enterprise - West Palm Beach 41E9,8011,68,5,1,3,8,8,2,10,0,0,2901 Okeechobee Blvd.,,West Palm Beach,FL,33409,POINT (-80.097893 26.70679)
+8157,Enterprise - Wellington 415F,8011,68,5,1,3,8,8,2,10,0,0,3060 Fairlane farms Road,,Wellington,FL,33414,POINT (-80.221929 26.63356)
+8158,Enterprise - Boynton Beach 416Q,8011,68,5,1,3,8,8,2,10,0,0,5000 Thor Drive,,Boynton Beach,FL,33436,POINT (-80.085061 26.489723)
+8112,Enterprise - Delray Beach 4104,8011,68,5,1,3,8,8,2,10,0,0,2805 S. Federal Highway,,Delray Beach,FL,33483,POINT (-80.072709 26.429167)
+8113,Enterprise - West Palm Beach 4105,8011,68,5,1,3,8,8,2,10,0,0,1889 N. Congress Avenue,,West Palm Beach,FL,33409,POINT (-80.086632 26.704661)
+8114,Enterprise - Boca Raton 4133,8011,68,5,1,3,8,8,2,10,0,0,19575 STATE ROAD 7 STE 6,,Boca Raton,FL,33498,POINT (-80.203786 26.387098)
+8115,Enterprise -Jupiter  4139,8010,68,5,1,3,8,8,2,10,0,0,280 Toney Penna Drive,,Jupiter,FL,33458,POINT (-80.097355 26.926283)
+8116,Enterprise - Royal Palm Beach 4141,8011,68,5,1,3,8,8,2,10,0,0,10381 SOUTHERN BLVD,,Royal Palm Beach,FL,33411,POINT (-80.206829 26.680858)
+8117,Enterprise - Boynton Beach 4158,8011,68,5,1,3,8,8,2,10,0,0,1009 N. Federal Highway,,Boynton Beach,FL,33435,POINT (-80.058024 26.535466)
+8118,Enterprise - Boca Raton 4162,8011,68,5,1,3,8,8,2,10,0,0,108 NW 3rd Street,,Boca Raton,FL,33432,POINT (-80.088209 26.353074)
+8119,Enterprise - West Palm Beach 4177,8011,68,5,1,3,8,8,2,10,0,0,479 S. Military Trail,,West Palm Beach,FL,33415,POINT (-80.112467 26.670334)
+8120,Enterprise - Palm Springs 4188,8011,68,5,1,3,8,8,2,10,0,0,2830 S. Congress Ave.,,Palm Springs,FL,33461,POINT (-80.088388 26.634931)
+8121,Enterprise - West Palm Beach 41E7,8011,68,5,1,3,8,8,2,10,0,0,813 N. Military Trail,,West Palm Beach,FL,33415,POINT (-80.111819 26.689166)
+8122,Enterprise - Lantana 41E8,8011,68,5,1,3,8,8,2,10,0,0,622 W. Lantana Road,,Lantana,FL,33462,POINT (-80.057328 26.586877)
+8123,Enterprise - West Palm Beach 412K,8011,68,5,1,3,8,8,2,10,0,0,"7750 Okeechobee Blvd, Ste 8",,West Palm Beach,FL,33411,POINT (-80.164533 26.708201)
+8124,Enterprise - Delray Beach 415C,8011,68,5,1,3,8,8,2,10,0,0,14832 S Military Trail,,Delray Beach,FL,33483,POINT (-80.122426 26.455983)
+8125,Enterprise - Riviera Beach 416K,8011,68,5,1,3,8,8,2,10,0,0,3621 BLUE HERON BLVD W,,Riviera Beach,FL,33484,POINT (-80.093251 26.782952)
+8126,Alamo Rent a Car- Boca Raton 41AX,8011,68,5,1,3,8,8,2,10,0,0,1300 NW 1ST AVE,,Boca Raton,FL,33432,POINT (-80.093251 26.782952)
+8127,Enterprise - West Palm Beach 41DH,8011,68,5,1,3,8,8,2,10,0,0,516 S. Dixie Hwy,,West Palm Beach,FL,33401,POINT (-80.053616 26.708829)
+8128,Enterprise - West Palm Beach 41B2,8011,68,5,1,3,8,8,2,10,0,0,2215 S. Dixie Hwy,,West Palm Beach,FL,33401,POINT (-80.054284 26.693961)
+8129,Enterprise - Delray Beach 41D3,8011,68,5,1,3,8,8,2,10,0,0,959 SE 6th Avenue,,Delray Beach,FL,33483,POINT (-80.066903 26.447423)
+8130,Enterprise - Lake Park,8011,68,5,1,3,8,8,2,10,0,0,500 Northlake Boulevard,,Lake Park,FL,33408,POINT (-80.062133 26.807329)
+8131,Enterprise - 41F2 North Palm Bech,8011,68,5,1,3,8,8,2,10,0,0,11175 US Highway 1,,North Palm Beach,FL,33408,POINT (-80.061803 26.839533)
+8132,Enterprise - Lake Worth 41W8,8011,68,5,1,3,8,8,2,10,0,0,7353 Lake Worth Road,,Lake Worth,FL,33467,POINT (-80.162342 26.617654)
+8133,Enterprise - Boynton Beach 41X2,8011,68,5,1,3,8,8,2,10,0,0,3841 Woolbright Road,,Boynton Beach,FL,33436,POINT (-80.121907 26.511912)
+8134,Enterprise - Riviera Beach 41Z5,8011,68,5,1,3,8,8,2,10,0,0,4910 Dyer Blvd.,,Riviera Beach,FL,33407,POINT (-80.112351 26.778145)
+8011,Enterprise Holdings - Palm Beach,,68,5,1,3,8,8,7,10,0,1,4910 Dyer Blvd.,,Rivera Beach,FL,33407,POINT (-80.112493 26.778122)
+9302,FAU Jupiter Campus - Worktickets Custodial,,43,1,1,3,9,3,2,2,0,1,5353 Parkside Dr.,,Jupiter,FL,33458,POINT (-80.119344 26.887793)
+2004,Specialty Team - Palm Beach,,15,2,1,3,90,90,90,0,0,0,,,,,,
+8092,Alamo Rent A Car- Key West 41AK,8013,68,5,1,91,8,8,2,10,0,0,2516 N. Roosevelt Blvd,,Key West,FL,33040,POINT (-81.775265 24.563993)
+8093,Enterprise - Key Largo 4128,8013,68,5,1,91,8,8,2,10,0,0,100149 Overseas Hgy,,Key Largo,FL,33037,POINT (-80.434434 25.099919)
+8094,Enterprise- Key West 4130,8013,68,5,1,91,8,8,2,10,0,0,2516 N. Roosevelt Blvd,,Key West,FL,33040,POINT (-81.77518 24.564054)
+8008,Enterprise Holdings - Indian River,,68,5,1,92,8,8,2,10,0,1,13240 US Highway 1,,Sebastian,FL,32958,POINT (-80.483782 27.83552)
+8108,Enterprise - Vero Beach 4134,8008,68,5,1,92,8,8,2,10,0,0,905 US Highway 1,,Vero Beach,FL,32960,POINT (-80.388776 27.617752)
+8109,Enterprise - Sebastian 41A6,8008,68,5,1,92,8,8,2,10,0,0,13240 US Highway 1,,Sebastian,FL,32958,POINT (-80.484054 27.835844)
+8110,Enterprise - Stuart 41E5,8009,68,5,1,93,8,8,2,10,0,0,6197 SE Federal Hwy,,Stuart,FL,34997,POINT (-80.202196 27.130559)
+8111,Enterprise- Okeechobee 4170,8010,68,5,1,94,8,8,2,10,0,0,4255 S. Highway 441,,Okeechobee,FL,34974,POINT (-80.784237 27.207459)
+8135,Enterprise - Ft. Pierce 4113,8012,68,5,1,95,8,8,2,10,0,0,4915 S US Highway 1,,Fort Pierce,FL,34982,POINT (-80.326053 27.375894)
+8136,Enterprise - Stuart 4119,8012,68,5,1,95,8,8,2,10,0,0,1991 S. US Highway 1,,Stuart,FL,34994,POINT (-80.236689 27.178847)
+8137,Enterprise - Port St Lucie 41E4,8012,68,5,1,95,8,8,2,10,0,0,1290 SW Bayshore Blvd,,Port Saint Lucie,FL,34983,POINT (-80.369199 27.301986)
+8138,Enterprise - Port St Lucie 41A2,8012,68,5,1,95,8,8,2,10,0,0,10502  S. Federal Highway,,Port Saint Lucie,FL,34952,POINT (-80.289505 27.273254)
+8139,Enterprise - Port St. Lucie 419K,8012,68,5,1,95,8,8,2,10,0,0,2816 SW Port St Lucie Blvd,,Port Saint Lucie,FL,34952,POINT (-80.374491 27.259541)
+8140,Enterprise - Fort Pierce 41F1,8012,68,5,1,95,8,8,2,10,0,0,975 S. US Highway 1,,Fort Pierce,FL,34950,POINT (-80.32599 27.436864)
