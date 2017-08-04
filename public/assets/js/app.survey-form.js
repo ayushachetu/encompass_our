@@ -117,13 +117,14 @@ $(document).ready(function () {
 		$('#images').modal('hide');
 	});
 
-	// $('#colors_sketch').sketch();
+	var signaturePad = new SignaturePad(document.getElementById('signature-pad'), {
+	  backgroundColor: 'rgba(255, 255, 255, 0)',
+	  penColor: 'rgb(0, 0, 0)'
+	});
 
-	$(".signature-flow a").eq(0).attr("style", "color:#000");
-
-	$(".signature-flow a").click(function () {
-		$(".signature-flow a").removeAttr("style");
-		$(this).attr("style", "color:#000");
+	var clearButton = document.getElementById('clear-signature');
+	clearButton.addEventListener('click', function (event) {
+		signaturePad.clear();
 	});
 
 	$('.img-upload-btn').click(function () {
@@ -146,9 +147,11 @@ $(document).ready(function () {
 			}, 500);
 			return false;
 		}
-		var files = $('#files').prop('files');
-		for (var i = 0; i < files.length; i++ )
-			fd.append(files[i].name, files[i]);
+		if ($('#files').length > 0) {
+			var files = $('#files').prop('files');
+			for (var i = 0; i < files.length; i++ )
+				fd.append(files[i].name, files[i]);
+		}
 		var img_desc = {};
 		$('.img-desc').each(function () {
 			img_desc[$(this).attr('data-image')] =  $(this).val();
@@ -183,7 +186,7 @@ $(document).ready(function () {
 	});
 
 	$('.complete-survey').click(function () {
-		var canvas = document.getElementById('colors_sketch');
+		var canvas = document.getElementById('signature-pad');
 		var data = {};
 		data._token = $('input[name="_token"]').val();
 		data.signature = canvas.toDataURL();
@@ -206,7 +209,7 @@ function validateCurrent() {
 	var matrix_data = {};
 	var proceed = true;
 	$('.option').each(function () {
-		var option = $(this).text();
+		var option = $(this).attr('data-text');
 		var radio_name = option.replace(/ /g, '-');
 		var radio_score = $('input[name="'+radio_name+'"]:checked').val();
 

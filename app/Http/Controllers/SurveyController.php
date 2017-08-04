@@ -247,7 +247,7 @@ class SurveyController extends Controller {
 
 			session(['survey_id' => $id]);
 
-			$industries = Industry::all(['id', 'name']);
+			$industries = Industry::where('active', 1)->get();
 
 			$questions = Question::where('is_deleted', 0)
 														->get(['id', 'name', 'matrix', 'image', 'comment']);

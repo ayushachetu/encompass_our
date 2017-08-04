@@ -248,16 +248,15 @@ class QualityController extends Controller {
 		$industry_data = Industry::all();
 		$industries = [];
 		foreach ($industry_data as $i)
-			$industries[$i->id] = $i->name;
+			$industries[$i->industry_id] = $i->name;
 
-		$industry_question_data = IndustryQuestion::all();
-		$industry_question = [];
-		foreach ($industry_question_data as $iqd) {
-			if (isset($industry_question[$industries[$iqd->industry_id]]))
-				$industry_question[$industries[$iqd->industry_id]][] = $questions_name[$iqd->question_id];
-			else
-				$industry_question[$industries[$iqd->industry_id]] = [$questions_name[$iqd->question_id]];
-		}
+    $industry_question_data = IndustryQuestion::all();     $industry_question
+= [];     foreach ($industry_question_data as $iqd) {       if
+(isset($industry_question[$industries[$iqd->industry_id]]))
+$industry_question[$industries[$iqd->industry_id]][] =
+$questions_name[$iqd->question_id];       else
+$industry_question[$industries[$iqd->industry_id]] =
+[$questions_name[$iqd->question_id]];     }
 
 		return view('quality.page', [
 			'job_list_health'			=> $job_list_health,

@@ -26,6 +26,7 @@ use App\SubmittedSurveysComments;
 use App\SubmittedSurveysRatings;
 use App\SubmittedSurveysQuestions;
 use App\Job;
+use App\Trigger;
 
 class SubmittedSurveyController extends Controller {
 	public function index($survey_random_id, Request $request) {
@@ -366,6 +367,7 @@ class SubmittedSurveyController extends Controller {
 					default: $ques_score += 0; break;
 				}
 		}
+		
 		SubmittedSurveysMatrix::create([
 			'submitted_survey_id'	=> $submitted_survey_id,
 			'question_name'				=> $current_question['name'],
@@ -373,6 +375,7 @@ class SubmittedSurveyController extends Controller {
 			'total_score'					=> $total_score,
 			'ques_score'					=> $ques_score
 		]);
+
 
 		$original_img_dest = public_path('assets\survey-images\original');
 		$resized_img_dest = public_path('assets\survey-images\resized');
@@ -500,6 +503,22 @@ class SubmittedSurveyController extends Controller {
 											'status'		=> 'ended',
 											'signature' => $signature_name
 										]);
+
+
+		// $submitted_survey_data = SubmittedSurvey::where('id', $submitted_survey_id)->first();
+
+		// $sql = "SELECT *
+		// 				FROM triggers
+		// 				WHERE jobs
+		// 				LIKE '%$submitted_survey_data->job%'";
+
+		// $triggers_data = DB::select($sql);
+
+		// if (count($triggers_data) > 1) {
+		// 	foreach ($triggers_data as $data) {
+		// 		dd($data);
+		// 	}
+		// }
 
 		return Response::json([
 			'success'	=> 1

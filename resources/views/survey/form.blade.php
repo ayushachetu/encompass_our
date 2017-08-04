@@ -7,42 +7,6 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/survey.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/use_less.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/survey-form.css') }}">
-<style type="text/css">
-	#content {
-		margin-left: initial;
-	}
-	.modal-content {
-		padding-right: 15px;
-	}
-	.main-content {
-		padding: 10px !important;
-	}
-	#import-ques-btn {
-		margin-top: 0;
-	}
-	#import-ques-btn:hover {
-		background: #eee;
-	}
-	canvas {
-		box-shadow: 0 0 1px 1px #ccc;
-	}
-	.signature-flow div {
-		text-align: initial;
-		width: 400px;
-		margin: auto;
-	}
-	.back {
-		cursor: pointer;
-		font-size: 18px;
-	}
-	.back:hover {
-		text-decoration: underline;
-	}
-
-	#images-preview span {
-		display: inline-block; 
-	}
-</style>
 @endsection
 
 @section('content')
@@ -121,7 +85,7 @@
 																		$option_details = $matrix_options->$option;
 																	@endphp
 																	<tr>
-																		<td class="option">{{ $option_details['en_option'] }}</td>
+																		<td class="option" data-text="{{ $option_details['en_option'] }}">{{ $option_details['en_option'] }}</td>
 																		@foreach ($scores as $score)
 																			@if (isset($current_question['matrix']) && $score == $current_question['matrix']->$option_details['en_option'])
 																				<td>
@@ -196,11 +160,8 @@
 
 												<div class="signature-flow text-center hidden">
 													<h3 align="center">Signature</h3>
-													<div>
-														<a href="#colors_sketch" data-tool="marker">Marker</a>
-														<a href="#colors_sketch" data-tool="eraser">Eraser</a>
-													</div>
-													<canvas id="colors_sketch" width="400" height="150"></canvas>
+													<div class="btn btn-warning" id="clear-signature">Clear</div>
+ 													<canvas id="signature-pad" class="signature-pad" width=400 height=150></canvas>
 												</div>
 
 												<div class="page-navigation-container">
@@ -253,6 +214,8 @@
 
 	<script type="text/javascript" src="{{ asset('assets/js/app.survey-single.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('assets/js/app.survey-form.js') }}"></script>
+
+	<script type="text/javascript" src="{{ asset('assets/js/signature_pad.min.js') }}"></script>
 
 	<script type="text/javascript">
 		function options_data(options) {

@@ -38,7 +38,7 @@
 
 #q-table th:first-child {
 	text-align: right;
-	width: 120px;
+	min-width: 120px;
 }
 
 #q-table td {

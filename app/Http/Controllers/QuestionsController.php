@@ -34,7 +34,7 @@ class QuestionsController extends Controller {
 																		GROUP BY q.id 
 																		ORDER BY q.priority ASC");
 
-			$industries = Industry::all(['id', 'name']);
+			$industries = Industry::where('active', 1)->get();
 
 			$matrix_options = MatrixOption::where('is_deleted', 0)
 																		->get(['id', 'es_option', 'en_option']);

@@ -11,7 +11,7 @@ class Industry extends Model {
 	* @var string
 	 */
 
-	protected $table = 'industries';
+	protected $table = 'industry';
 
 	/**
 	* The attributes that are mass assignable.
@@ -19,5 +19,5 @@ class Industry extends Model {
 	* @var array
 	 */
 
-	protected $fillable = [ 'name', 'created_by' ];
+	protected $fillable = [ 'industry_id', 'name', 'employee_number', 'active' ];
 }

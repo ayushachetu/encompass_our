@@ -12,7 +12,7 @@
 							<option disabled selected value="">Select Industry</option>
 							<option>All</option>
 							@foreach ($industries as $industry)
-								<option value="{{ $industry->id }}">{{ $industry->name }}</option>
+								<option value="{{ $industry->industry_id }}">{{ $industry->name }}</option>
 							@endforeach
 						</select>
 					</div>

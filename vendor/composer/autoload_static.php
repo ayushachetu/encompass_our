@@ -403,6 +403,8 @@ class ComposerStaticInitcbff785e7ad2a179de6fc040e0fe1b07
         'CreateSurveyQuestionsTable' => __DIR__ . '/../..' . '/database/migrations/2017_02_07_095504_create_survey_questions_table.php',
         'CreateSurveysJobsTable' => __DIR__ . '/../..' . '/database/migrations/2017_04_04_085205_create_surveys_jobs_table.php',
         'CreateSurveysTable' => __DIR__ . '/../..' . '/database/migrations/2017_02_07_062846_create_surveys_table.php',
+        'CreateTriggersLogsTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_20_125247_create_triggers_logs_table.php',
+        'CreateTriggersTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_20_122141_create_triggers_table.php',
         'DOMPDF' => __DIR__ . '/..' . '/dompdf/dompdf/include/dompdf.cls.php',
         'DOMPDF_Exception' => __DIR__ . '/..' . '/dompdf/dompdf/include/dompdf_exception.cls.php',
         'DOMPDF_Image_Exception' => __DIR__ . '/..' . '/dompdf/dompdf/include/dompdf_image_exception.cls.php',

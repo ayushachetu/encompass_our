@@ -148,6 +148,12 @@
 					<span class="text">Survey Reports</span>
 				</a>
 			</li>
+			<li>
+				<a href="/triggers">
+					<i class="icon ti-bar-chart"></i>
+					<span class="text">Triggers</span>
+				</a>
+			</li>
 		@endif
 		@if(Auth::user()->hasRole(1)==1)
 		<li>

@@ -243,3 +243,43 @@ input[name="preview-btn"] {
 		padding: 10px !important;
 	}
 }
+
+#clear-signature {
+	text-align: center;
+	display: block;
+	margin-bottom: 10px;
+}
+#content {
+	margin-left: initial;
+}
+.modal-content {
+	padding-right: 15px;
+}
+.main-content {
+	padding: 10px !important;
+}
+#import-ques-btn {
+	margin-top: 0;
+}
+#import-ques-btn:hover {
+	background: #eee;
+}
+canvas {
+	box-shadow: 0 0 1px 1px #ccc;
+}
+.signature-flow div {
+	text-align: initial;
+	width: 400px;
+	margin: auto;
+}
+.back {
+	cursor: pointer;
+	font-size: 18px;
+}
+.back:hover {
+	text-decoration: underline;
+}
+
+#images-preview span {
+	display: inline-block; 
+}

@@ -337,12 +337,21 @@ class ScheduledReports extends Command
 	}
 
 	private function sendReport($body, $recipients_by_roles, $custom_recipients, $survey_scores) {
+		$custom_emails = explode(',', $custom_recipients);
+
+		Mail::send(['html' => 'emails.reports'], ['body' => $body], function ($message) use ($custom_emails) {
+			$message->from('no-repoly@encompassonsite.com', 'EncompassOnsite');
+			$message->bcc($custom_emails);
+			$message->subject('EncompassOnsite Survey Reports');
+		});
+
 		$all_surveys = array_keys($survey_scores);
 
 		$role_emails = DB::select("SELECT CONVERT(role_id, CHAR(10)) AS role_id,
 																GROUP_CONCAT(email SEPARATOR ',') AS emails
 															FROM users
 															WHERE role_id IN($recipients_by_roles)
+															OR manager_parent <> 0
 															GROUP BY role_id");
 
 		$emails_by_role = [];

@@ -34,6 +34,8 @@ return array(
     'CreateSurveyQuestionsTable' => $baseDir . '/database/migrations/2017_02_07_095504_create_survey_questions_table.php',
     'CreateSurveysJobsTable' => $baseDir . '/database/migrations/2017_04_04_085205_create_surveys_jobs_table.php',
     'CreateSurveysTable' => $baseDir . '/database/migrations/2017_02_07_062846_create_surveys_table.php',
+    'CreateTriggersLogsTable' => $baseDir . '/database/migrations/2017_07_20_125247_create_triggers_logs_table.php',
+    'CreateTriggersTable' => $baseDir . '/database/migrations/2017_07_20_122141_create_triggers_table.php',
     'DOMPDF' => $vendorDir . '/dompdf/dompdf/include/dompdf.cls.php',
     'DOMPDF_Exception' => $vendorDir . '/dompdf/dompdf/include/dompdf_exception.cls.php',
     'DOMPDF_Image_Exception' => $vendorDir . '/dompdf/dompdf/include/dompdf_image_exception.cls.php',

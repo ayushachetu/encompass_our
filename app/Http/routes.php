@@ -219,6 +219,7 @@ Route::group(['middleware' => 'auth'], function () {
 });	
 
 Route::group(['middleware' => 'auth', 'middleware' => 'role:4'], function () {
+	// Question module routes
 	Route::get('questions', 'QuestionsController@index');
 	Route::post('add-question', 'QuestionsController@store');
 	Route::post('store-industry-question', 'QuestionsController@storeIndustryQuestion');
@@ -228,12 +229,14 @@ Route::group(['middleware' => 'auth', 'middleware' => 'role:4'], function () {
 	Route::post('question-data', 'QuestionsController@getQuestionData');
 	Route::post('edit-question', 'QuestionsController@edit');
 
+	// Matrix option routes
 	Route::get('matrix-options', 'MatrixOptionsController@index');
 	Route::post('add-matrix-option', 'MatrixOptionsController@store');
 	Route::post('delete-matrix-option', 'MatrixOptionsController@delete');
 	Route::post('edit-matrix-option', 'MatrixOptionsController@edit');
 	Route::post('restore-matrix-option', 'MatrixOptionsController@restore');
 
+	// Survey module routes
 	Route::get('survey', 'SurveyController@index');
 	Route::post('survey/store', 'SurveyController@store');
 	Route::post('survey/delete', 'SurveyController@delete');
@@ -276,4 +279,10 @@ Route::group(['middleware' => 'auth', 'middleware' => 'role:4'], function () {
 	Route::get('/scheduled-jobs/list', 'SchedulingController@index');
 	Route::post('/scheduled-jobs/create', 'SchedulingController@create');
 	Route::post('/scheduled-jobs/delete', 'SchedulingController@delete');
+
+
+	Route::get('/triggers', 'TriggersController@index');
+	Route::get('/triggers/create', 'TriggersController@form');
+	Route::post('/triggers/create', 'TriggersController@create');
+
 });

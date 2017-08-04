@@ -41,7 +41,7 @@
 													<th>Question</th>
 													<?php $industry_index = []; ?>
 													@for ($i = 0; $i < count($industries); $i++)
-														<?php $industry_index[$i] = (string) $industries[$i]->id; ?>
+														<?php $industry_index[$i] = (string) $industries[$i]->industry_id; ?>
 														<th>{{ $industries[$i]->name }}</th>
 													@endfor
 												</thead>
